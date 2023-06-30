@@ -1,0 +1,380 @@
+[
+    {
+        "updId": null,
+        "regId": null,
+        "noticeCategoryTemplateDtoList": [
+            {
+                "order": 1,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "제품명",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": ""
+                },
+                "noticeCategoryTemplateId": 413
+            },
+            {
+                "order": 2,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "제조업소의 명칭과 소재지",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": "수입품의 경우, 수입업소, 제조업소 및 수출국"
+                },
+                "noticeCategoryTemplateId": 213
+            },
+            {
+                "order": 3,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "소비기한 및 보관방법",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": ""
+                },
+                "noticeCategoryTemplateId": 214
+            },
+            {
+                "order": 4,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "포장단위별 내용물의 용량(중량), 수량",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": ""
+                },
+                "noticeCategoryTemplateId": 215
+            },
+            {
+                "order": 5,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "원료명 및 함량",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": "농수산물의 원산지 표시에 관한 법률에 따른 원산지 표시 포함"
+                },
+                "noticeCategoryTemplateId": 216
+            },
+            {
+                "order": 6,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "영양정보",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": ""
+                },
+                "noticeCategoryTemplateId": 217
+            },
+            {
+                "order": 7,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "기능정보",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": ""
+                },
+                "noticeCategoryTemplateId": 218
+            },
+            {
+                "order": 8,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "섭취량, 섭취방법, 섭취 시 주의사항 및 부작용 발생 가능성",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": ""
+                },
+                "noticeCategoryTemplateId": 219
+            },
+            {
+                "order": 9,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "의약품 여부",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": ""
+                },
+                "noticeCategoryTemplateId": 220
+            },
+            {
+                "order": 10,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "유전자변형건강식품에 해당하는 경우의 표시",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": ""
+                },
+                "noticeCategoryTemplateId": 221
+            },
+            {
+                "order": 11,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "수입 건강기능식품 문구",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": ""
+                },
+                "noticeCategoryTemplateId": 223
+            },
+            {
+                "order": 12,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "소비자안전을 위한 주의사항",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": ""
+                },
+                "noticeCategoryTemplateId": 414
+            },
+            {
+                "order": 13,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "소비자상담관련 전화번호",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": ""
+                },
+                "noticeCategoryTemplateId": 224
+            }
+        ],
+        "noticeCategoryName": "건강기능식품",
+        "noticeCategoryId": 22,
+        "modifiedAt": null,
+        "createdAt": null
+    },
+    {
+        "updId": null,
+        "regId": null,
+        "noticeCategoryTemplateDtoList": [
+            {
+                "order": 1,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "품명 및 모델명",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": ""
+                },
+                "noticeCategoryTemplateId": 342
+            },
+            {
+                "order": 2,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "인증/허가 사항",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": ""
+                },
+                "noticeCategoryTemplateId": 343
+            },
+            {
+                "order": 3,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "제조국(원산지)",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": ""
+                },
+                "noticeCategoryTemplateId": 344
+            },
+            {
+                "order": 4,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "제조자(수입자)",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": ""
+                },
+                "noticeCategoryTemplateId": 345
+            },
+            {
+                "order": 5,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "소비자상담 관련 전화번호",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": "쿠팡고객센터 1577-7011"
+                },
+                "noticeCategoryTemplateId": 346
+            }
+        ],
+        "noticeCategoryName": "기타 재화",
+        "noticeCategoryId": 38,
+        "modifiedAt": null,
+        "createdAt": null
+    },
+    {
+        "updId": null,
+        "regId": null,
+        "noticeCategoryTemplateDtoList": [
+            {
+                "order": 1,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "제품명",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": ""
+                },
+                "noticeCategoryTemplateId": 411
+            },
+            {
+                "order": 2,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "식품의 유형",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": ""
+                },
+                "noticeCategoryTemplateId": 202
+            },
+            {
+                "order": 3,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "생산자 및 소재지",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": "수입품의 경우 생산자,수입자 및 제조국"
+                },
+                "noticeCategoryTemplateId": 203
+            },
+            {
+                "order": 4,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "제조연월일, 소비기한 또는 품질유지기한",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": ""
+                },
+                "noticeCategoryTemplateId": 204
+            },
+            {
+                "order": 5,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "포장단위별 내용물의 용량(중량), 수량",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": ""
+                },
+                "noticeCategoryTemplateId": 205
+            },
+            {
+                "order": 6,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "원재료명 및 함량",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": "농수산물의 원산지 표시에 관한 법률에 따른 원산지 표시 포함"
+                },
+                "noticeCategoryTemplateId": 206
+            },
+            {
+                "order": 7,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "영양성분",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": "식품위생법에 따른 영양성분 표시대상 식품에 한함"
+                },
+                "noticeCategoryTemplateId": 207
+            },
+            {
+                "order": 8,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "유전자변형식품에 해당하는 경우의 표시",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": ""
+                },
+                "noticeCategoryTemplateId": 208
+            },
+            {
+                "order": 9,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "소비자안전을 위한 주의사항",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": ""
+                },
+                "noticeCategoryTemplateId": 412
+            },
+            {
+                "order": 10,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "수입식품 문구",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": ""
+                },
+                "noticeCategoryTemplateId": 210
+            },
+            {
+                "order": 11,
+                "noticeCategoryTemplateLocaleDto": {
+                    "templateId": null,
+                    "noticeId": null,
+                    "name": "소비자상담관련 전화번호",
+                    "localeId": 0,
+                    "locale": "ko",
+                    "defaultValue": ""
+                },
+                "noticeCategoryTemplateId": 211
+            }
+        ],
+        "noticeCategoryName": "가공식품",
+        "noticeCategoryId": 21,
+        "modifiedAt": null,
+        "createdAt": null
+    }
+]

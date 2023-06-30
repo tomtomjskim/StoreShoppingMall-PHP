@@ -1,0 +1,5217 @@
+[
+    {
+        "__desc1__": "이 파일은 카테고리 초기 설정용 template DATA 입니다.",
+        "__desc2__": "util.insert.category.php 에서 load"
+    },
+    {
+        "category": "패션의류잡화",
+        "children": [
+            {
+                "category": "남성패션",
+                "children": [
+                    {
+                        "category": "남성시계",
+                        "children": []
+                    },
+                    {
+                        "category": "남성의류",
+                        "children": []
+                    },
+                    {
+                        "category": "남성잡화",
+                        "children": []
+                    },
+                    {
+                        "category": "남성쥬얼리",
+                        "children": []
+                    },
+                    {
+                        "category": "남성화",
+                        "children": []
+                    },
+                    {
+                        "category": "래쉬가드",
+                        "children": []
+                    },
+                    {
+                        "category": "빅사이즈 의류",
+                        "children": []
+                    },
+                    {
+                        "category": "속옷/잠옷",
+                        "children": []
+                    },
+                    {
+                        "category": "커버업",
+                        "children": []
+                    },
+                    {
+                        "category": "파티복/우리옷(한복)",
+                        "children": []
+                    },
+                    {
+                        "category": "해외직구",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "베이비 의류/신발/잡화(~24개월)",
+                "children": [
+                    {
+                        "category": "베이비신발",
+                        "children": []
+                    },
+                    {
+                        "category": "베이비의류",
+                        "children": []
+                    },
+                    {
+                        "category": "베이비잡화",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "여성패션",
+                "children": [
+                    {
+                        "category": "래쉬가드",
+                        "children": []
+                    },
+                    {
+                        "category": "빅사이즈 의류",
+                        "children": []
+                    },
+                    {
+                        "category": "속옷/잠옷",
+                        "children": []
+                    },
+                    {
+                        "category": "수영복",
+                        "children": []
+                    },
+                    {
+                        "category": "여성시계",
+                        "children": []
+                    },
+                    {
+                        "category": "여성의류",
+                        "children": []
+                    },
+                    {
+                        "category": "여성잡화",
+                        "children": []
+                    },
+                    {
+                        "category": "여성쥬얼리",
+                        "children": []
+                    },
+                    {
+                        "category": "여성화",
+                        "children": []
+                    },
+                    {
+                        "category": "커버업",
+                        "children": []
+                    },
+                    {
+                        "category": "파티복/우리옷(한복)",
+                        "children": []
+                    },
+                    {
+                        "category": "해외직구",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "영유아동 신발/잡화/기타의류(0~17세)",
+                "children": [
+                    {
+                        "category": "남녀공용신발",
+                        "children": []
+                    },
+                    {
+                        "category": "남녀공용잡화",
+                        "children": []
+                    },
+                    {
+                        "category": "남아 스포츠/한복 외",
+                        "children": []
+                    },
+                    {
+                        "category": "남아신발",
+                        "children": []
+                    },
+                    {
+                        "category": "남아잡화",
+                        "children": []
+                    },
+                    {
+                        "category": "남여공용 스포츠/한복 외",
+                        "children": []
+                    },
+                    {
+                        "category": "여아 스포츠/한복 외",
+                        "children": []
+                    },
+                    {
+                        "category": "여아신발",
+                        "children": []
+                    },
+                    {
+                        "category": "여아잡화",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "유니섹스/남녀공용 패션",
+                "children": [
+                    {
+                        "category": "공용 시계",
+                        "children": []
+                    },
+                    {
+                        "category": "공용 잡화",
+                        "children": []
+                    },
+                    {
+                        "category": "공용 쥬얼리",
+                        "children": []
+                    },
+                    {
+                        "category": "공용화",
+                        "children": []
+                    },
+                    {
+                        "category": "내의/잠옷",
+                        "children": []
+                    },
+                    {
+                        "category": "래쉬가드",
+                        "children": []
+                    },
+                    {
+                        "category": "빅사이즈 의류",
+                        "children": []
+                    },
+                    {
+                        "category": "캐주얼 의류",
+                        "children": []
+                    },
+                    {
+                        "category": "커버업",
+                        "children": []
+                    },
+                    {
+                        "category": "테마복/유니폼/수의",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "주니어 의류(9~17세)",
+                "children": [
+                    {
+                        "category": "남녀공용의류",
+                        "children": []
+                    },
+                    {
+                        "category": "남아의류",
+                        "children": []
+                    },
+                    {
+                        "category": "여아의류",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "키즈 의류(3~8세)",
+                "children": [
+                    {
+                        "category": "남녀공용의류",
+                        "children": []
+                    },
+                    {
+                        "category": "남아의류",
+                        "children": []
+                    },
+                    {
+                        "category": "여아의류",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "뷰티",
+        "children": [
+            {
+                "category": "남성화장품",
+                "children": [
+                    {
+                        "category": "남성메이크업",
+                        "children": []
+                    },
+                    {
+                        "category": "남성스킨케어",
+                        "children": []
+                    },
+                    {
+                        "category": "남성화장품세트",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "category": "네일",
+                "children": [
+                    {
+                        "category": "네일메이크업"
+                    },
+                    {
+                        "category": "네일세트"
+                    },
+                    {
+                        "category": "네일케어"
+                    }
+                ]
+            },
+            {
+                "category": "메이크업",
+                "children": [
+                    {
+                        "category": "립메이크업"
+                    },
+                    {
+                        "category": "멀티메이크업"
+                    },
+                    {
+                        "category": "바디메이크업"
+                    },
+                    {
+                        "category": "베이스메이크업"
+                    },
+                    {
+                        "category": "아이메이크업"
+                    },
+                    {
+                        "category": "치크메이크업"
+                    }
+                ]
+            },
+            {
+                "category": "바디",
+                "children": [
+                    {
+                        "category": "겨드랑이관리"
+                    },
+                    {
+                        "category": "몸매관리/패치"
+                    },
+                    {
+                        "category": "바디케어"
+                    },
+                    {
+                        "category": "바디케어세트"
+                    },
+                    {
+                        "category": "샤워/입욕용품"
+                    },
+                    {
+                        "category": "제모/왁싱"
+                    },
+                    {
+                        "category": "청결제"
+                    },
+                    {
+                        "category": "핸드/풋 케어"
+                    }
+                ]
+            },
+            {
+                "category": "뷰티소품",
+                "children": [
+                    {
+                        "category": "기타뷰티소품"
+                    },
+                    {
+                        "category": "아이소품"
+                    },
+                    {
+                        "category": "클렌징소품"
+                    },
+                    {
+                        "category": "페이스소품"
+                    },
+                    {
+                        "category": "헤어소품"
+                    },
+                    {
+                        "category": "화장품용기"
+                    }
+                ]
+            },
+            {
+                "category": "선물세트",
+                "children": [
+                    {
+                        "category": "남성화장품 선물세트"
+                    },
+                    {
+                        "category": "멀티케어선물세트"
+                    },
+                    {
+                        "category": "메이크업선물세트"
+                    },
+                    {
+                        "category": "바디선물세트"
+                    },
+                    {
+                        "category": "스킨선물세트"
+                    },
+                    {
+                        "category": "향수선물세트"
+                    },
+                    {
+                        "category": "헤어 선물세트"
+                    }
+                ]
+            },
+            {
+                "category": "스킨",
+                "children": [
+                    {
+                        "category": "기초세트"
+                    },
+                    {
+                        "category": "로션/에멀젼"
+                    },
+                    {
+                        "category": "립케어"
+                    },
+                    {
+                        "category": "마스크/팩"
+                    },
+                    {
+                        "category": "미스트"
+                    },
+                    {
+                        "category": "선케어/태닝"
+                    },
+                    {
+                        "category": "스킨 멀티밤"
+                    },
+                    {
+                        "category": "스킨/토너"
+                    },
+                    {
+                        "category": "에센스/세럼/앰플"
+                    },
+                    {
+                        "category": "오일"
+                    },
+                    {
+                        "category": "올인원"
+                    },
+                    {
+                        "category": "크림"
+                    },
+                    {
+                        "category": "클렌징"
+                    },
+                    {
+                        "category": "필링"
+                    }
+                ]
+            },
+            {
+                "category": "어린이화장품",
+                "children": [
+                    {
+                        "category": "네일 케어"
+                    },
+                    {
+                        "category": "립 메이크업"
+                    },
+                    {
+                        "category": "립 케어"
+                    },
+                    {
+                        "category": "세트/키트"
+                    },
+                    {
+                        "category": "아이 메이크업"
+                    },
+                    {
+                        "category": "페이스 메이크업"
+                    },
+                    {
+                        "category": "향수"
+                    }
+                ]
+            },
+            {
+                "category": "임산부화장품",
+                "children": [
+                    {
+                        "category": "임산부 기초화장품"
+                    },
+                    {
+                        "category": "임산부 바디케어"
+                    },
+                    {
+                        "category": "임산부 샴푸/린스"
+                    },
+                    {
+                        "category": "임산부 선케어"
+                    },
+                    {
+                        "category": "임산부 클렌징/비누"
+                    }
+                ]
+            },
+            {
+                "category": "향수",
+                "children": [
+                    {
+                        "category": "고체향수"
+                    },
+                    {
+                        "category": "액체향수"
+                    }
+                ]
+            },
+            {
+                "category": "헤어",
+                "children": [
+                    {
+                        "category": "린스/컨디셔너"
+                    },
+                    {
+                        "category": "샴푸"
+                    },
+                    {
+                        "category": "에센스/오일"
+                    },
+                    {
+                        "category": "트리트먼트/팩/앰플"
+                    },
+                    {
+                        "category": "펌/스트레이트너"
+                    },
+                    {
+                        "category": "헤어스타일링"
+                    },
+                    {
+                        "category": "헤어컬러"
+                    },
+                    {
+                        "category": "헤어케어세트"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "출산/유아동",
+        "children": [
+            {
+                "category": "기저귀/교체용품",
+                "children": [
+                    {
+                        "category": "기저귀"
+                    },
+                    {
+                        "category": "기저귀가방/파우치"
+                    },
+                    {
+                        "category": "기저귀교체용품"
+                    },
+                    {
+                        "category": "기저귀쓰레기통/봉투"
+                    },
+                    {
+                        "category": "기저귀크림/연고/파우더"
+                    }
+                ]
+            },
+            {
+                "category": "놀이매트/안전용품",
+                "children": [
+                    {
+                        "category": "돌연사방지매트"
+                    },
+                    {
+                        "category": "머리/무릎보호대"
+                    },
+                    {
+                        "category": "모서리/코너보호용품"
+                    },
+                    {
+                        "category": "미끄럼방지용품"
+                    },
+                    {
+                        "category": "미아방지용품"
+                    },
+                    {
+                        "category": "손낌방지용품"
+                    },
+                    {
+                        "category": "유아놀이방매트"
+                    },
+                    {
+                        "category": "유아안전문"
+                    },
+                    {
+                        "category": "유아안전잠금장치"
+                    },
+                    {
+                        "category": "침대가드/연결장치"
+                    },
+                    {
+                        "category": "콘센트안전커버"
+                    }
+                ]
+            },
+            {
+                "category": "분유/유아식품",
+                "children": [
+                    {
+                        "category": "산양분유"
+                    },
+                    {
+                        "category": "영유아식"
+                    },
+                    {
+                        "category": "유아간식/음료"
+                    },
+                    {
+                        "category": "유아건강식품"
+                    },
+                    {
+                        "category": "유아국/반찬"
+                    },
+                    {
+                        "category": "유아양념/식재료"
+                    },
+                    {
+                        "category": "이유식"
+                    },
+                    {
+                        "category": "일반분유"
+                    },
+                    {
+                        "category": "특수분유"
+                    }
+                ]
+            },
+            {
+                "category": "수유/이유용품",
+                "children": [
+                    {
+                        "category": "모유수유용품"
+                    },
+                    {
+                        "category": "수유보조용품"
+                    },
+                    {
+                        "category": "젖병/젖꼭지"
+                    },
+                    {
+                        "category": "젖병건조기/소독기"
+                    },
+                    {
+                        "category": "턱받이"
+                    }
+                ]
+            },
+            {
+                "category": "외출용품",
+                "children": [
+                    {
+                        "category": "아기띠/힙시트"
+                    },
+                    {
+                        "category": "아기띠액세서리"
+                    },
+                    {
+                        "category": "웨건/액세서리"
+                    },
+                    {
+                        "category": "유모차"
+                    },
+                    {
+                        "category": "유모차액세서리"
+                    },
+                    {
+                        "category": "유아용웨건"
+                    },
+                    {
+                        "category": "카시트"
+                    },
+                    {
+                        "category": "카시트액세서리"
+                    },
+                    {
+                        "category": "휴대용기저귀교체매트"
+                    }
+                ]
+            },
+            {
+                "category": "유아가구/인테리어",
+                "children": [
+                    {
+                        "category": "유아공부상/책상"
+                    },
+                    {
+                        "category": "유아동침대"
+                    },
+                    {
+                        "category": "유아수납/정리함"
+                    },
+                    {
+                        "category": "유아의자/소파"
+                    }
+                ]
+            },
+            {
+                "category": "유아동침구",
+                "children": [
+                    {
+                        "category": "낮잠이불/세트"
+                    },
+                    {
+                        "category": "베개/바디필로우"
+                    },
+                    {
+                        "category": "요/패드"
+                    },
+                    {
+                        "category": "유아담요/블랭킷"
+                    },
+                    {
+                        "category": "유아동 침구세트"
+                    },
+                    {
+                        "category": "유아동이불"
+                    }
+                ]
+            },
+            {
+                "category": "유아목욕/스킨케어",
+                "children": [
+                    {
+                        "category": "야외활동용품"
+                    },
+                    {
+                        "category": "유아구강용품"
+                    },
+                    {
+                        "category": "유아구강케어"
+                    },
+                    {
+                        "category": "유아목욕/욕실용품"
+                    },
+                    {
+                        "category": "유아바디/헤어케어"
+                    },
+                    {
+                        "category": "유아스킨케어"
+                    }
+                ]
+            },
+            {
+                "category": "유아물티슈/캡/홀더",
+                "children": [
+                    {
+                        "category": "물티슈액세서리"
+                    },
+                    {
+                        "category": "물티슈캡"
+                    },
+                    {
+                        "category": "유아건티슈"
+                    },
+                    {
+                        "category": "유아물티슈"
+                    }
+                ]
+            },
+            {
+                "category": "유아위생/건강/세제",
+                "children": [
+                    {
+                        "category": "건강용품"
+                    },
+                    {
+                        "category": "배변훈련용품"
+                    },
+                    {
+                        "category": "위생용품"
+                    },
+                    {
+                        "category": "유아세제/세정제"
+                    },
+                    {
+                        "category": "치발기"
+                    },
+                    {
+                        "category": "치발기액세서리"
+                    }
+                ]
+            },
+            {
+                "category": "이유/유아식기",
+                "children": [
+                    {
+                        "category": "보온/보냉백"
+                    },
+                    {
+                        "category": "분유/이유식보관용기"
+                    },
+                    {
+                        "category": "이유식기/빨대컵"
+                    }
+                ]
+            },
+            {
+                "category": "임부용품",
+                "children": [
+                    {
+                        "category": "수유/산모용품"
+                    },
+                    {
+                        "category": "임산부보조식품"
+                    },
+                    {
+                        "category": "임산부보호용품"
+                    }
+                ]
+            },
+            {
+                "category": "출산준비물/선물",
+                "children": [
+                    {
+                        "category": "돌잔치답례품"
+                    },
+                    {
+                        "category": "돌잔치용품"
+                    },
+                    {
+                        "category": "손발도장"
+                    },
+                    {
+                        "category": "출산선물"
+                    },
+                    {
+                        "category": "출산준비물"
+                    },
+                    {
+                        "category": "탯줄/유치/임신테스트기보관함"
+                    },
+                    {
+                        "category": "탯줄도장"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "식품",
+        "children": [
+            {
+                "category": "가공/즉석식품",
+                "children": [
+                    {
+                        "category": "라면"
+                    },
+                    {
+                        "category": "면류"
+                    },
+                    {
+                        "category": "잼/꿀/시럽"
+                    },
+                    {
+                        "category": "즉석밥/간편조리"
+                    },
+                    {
+                        "category": "캔/통조림류"
+                    }
+                ]
+            },
+            {
+                "category": "가루/조미료/향신료",
+                "children": [
+                    {
+                        "category": "가루"
+                    },
+                    {
+                        "category": "설탕/소금"
+                    },
+                    {
+                        "category": "조미료/향신료"
+                    }
+                ]
+            },
+            {
+                "category": "건강식품",
+                "children": [
+                    {
+                        "category": "영양식"
+                    },
+                    {
+                        "category": "영양제"
+                    },
+                    {
+                        "category": "전통건강식품"
+                    },
+                    {
+                        "category": "헬스/다이어트식품"
+                    }
+                ]
+            },
+            {
+                "category": "냉장/냉동식품",
+                "children": [
+                    {
+                        "category": "김밥/도시락/샐러드"
+                    },
+                    {
+                        "category": "김치/반찬/젓갈"
+                    },
+                    {
+                        "category": "냉장냉동 간편조리"
+                    },
+                    {
+                        "category": "냉장면류"
+                    },
+                    {
+                        "category": "연식품"
+                    },
+                    {
+                        "category": "햄/소시지/어묵/맛살"
+                    }
+                ]
+            },
+            {
+                "category": "생수/음료",
+                "children": [
+                    {
+                        "category": "생수/탄산수"
+                    },
+                    {
+                        "category": "음료"
+                    }
+                ]
+            },
+            {
+                "category": "스낵/간식",
+                "children": [
+                    {
+                        "category": "간식 소시지"
+                    },
+                    {
+                        "category": "떡/전통과자"
+                    },
+                    {
+                        "category": "빵/베이커리"
+                    },
+                    {
+                        "category": "스낵/시리얼"
+                    },
+                    {
+                        "category": "원물간식"
+                    },
+                    {
+                        "category": "초콜릿/사탕/젤리/껌"
+                    }
+                ]
+            },
+            {
+                "category": "신선식품",
+                "children": [
+                    {
+                        "category": "건과/견과류"
+                    },
+                    {
+                        "category": "과일류"
+                    },
+                    {
+                        "category": "수산물/건어물"
+                    },
+                    {
+                        "category": "쌀/잡곡류"
+                    },
+                    {
+                        "category": "채소류"
+                    },
+                    {
+                        "category": "축산물/계란"
+                    }
+                ]
+            },
+            {
+                "category": "유제품/아이스크림/디저트",
+                "children": [
+                    {
+                        "category": "기타 유제품"
+                    },
+                    {
+                        "category": "아이스크림/디저트"
+                    },
+                    {
+                        "category": "우유/요구르트"
+                    },
+                    {
+                        "category": "치즈/유가공품류"
+                    }
+                ]
+            },
+            {
+                "category": "장/소스",
+                "children": [
+                    {
+                        "category": "소스/드레싱/식초"
+                    },
+                    {
+                        "category": "식용유/오일/참기름"
+                    },
+                    {
+                        "category": "오일류"
+                    },
+                    {
+                        "category": "장류"
+                    }
+                ]
+            },
+            {
+                "category": "전통주",
+                "children": [
+                    {
+                        "category": "과실주"
+                    },
+                    {
+                        "category": "기타주류"
+                    },
+                    {
+                        "category": "막걸리/탁주"
+                    },
+                    {
+                        "category": "소주/증류주"
+                    },
+                    {
+                        "category": "약주/청주"
+                    },
+                    {
+                        "category": "혼합 구성 세트"
+                    }
+                ]
+            },
+            {
+                "category": "커피/차",
+                "children": [
+                    {
+                        "category": "커피"
+                    },
+                    {
+                        "category": "코코아/라떼/기타분말"
+                    },
+                    {
+                        "category": "티/전통차"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "주방용품",
+        "children": [
+            {
+                "category": "교자상/밥상/상커버",
+                "children": [
+                    {
+                        "category": "교자상"
+                    },
+                    {
+                        "category": "밥상"
+                    },
+                    {
+                        "category": "상커버"
+                    },
+                    {
+                        "category": "전통소반"
+                    },
+                    {
+                        "category": "찻상"
+                    }
+                ]
+            },
+            {
+                "category": "베이킹&포장용품",
+                "children": [
+                    {
+                        "category": "데코레이션도구"
+                    },
+                    {
+                        "category": "베이킹도구"
+                    },
+                    {
+                        "category": "베이킹포장/도시락포장"
+                    },
+                    {
+                        "category": "빵틀/쿠키팬/무스링"
+                    }
+                ]
+            },
+            {
+                "category": "보관/밀폐용기",
+                "children": [
+                    {
+                        "category": "과실주병/담금주병"
+                    },
+                    {
+                        "category": "기타보관용기"
+                    },
+                    {
+                        "category": "김치통/누름독"
+                    },
+                    {
+                        "category": "더치병/기타공병"
+                    },
+                    {
+                        "category": "도시락/찬합"
+                    },
+                    {
+                        "category": "마늘용기/마늘칸칸"
+                    },
+                    {
+                        "category": "물병/물통"
+                    },
+                    {
+                        "category": "밀폐/보관용기"
+                    },
+                    {
+                        "category": "시리얼디스펜서"
+                    },
+                    {
+                        "category": "쌀통/잡곡통"
+                    },
+                    {
+                        "category": "아이스트레이/얼음틀"
+                    },
+                    {
+                        "category": "양념통/오일병"
+                    },
+                    {
+                        "category": "진공항아리"
+                    },
+                    {
+                        "category": "캔디머신/사탕디스펜서"
+                    },
+                    {
+                        "category": "항아리"
+                    }
+                ]
+            },
+            {
+                "category": "보온/보냉용품",
+                "children": [
+                    {
+                        "category": "기타보온보냉소품"
+                    },
+                    {
+                        "category": "보온/보냉백"
+                    },
+                    {
+                        "category": "보온/보냉병"
+                    },
+                    {
+                        "category": "보온도시락/죽통"
+                    },
+                    {
+                        "category": "보온보냉주전자"
+                    },
+                    {
+                        "category": "아이스박스/아이스팩"
+                    },
+                    {
+                        "category": "아이스큐브/스텐얼음"
+                    }
+                ]
+            },
+            {
+                "category": "수저/컵/식기",
+                "children": [
+                    {
+                        "category": "그릇/접시/홈세트"
+                    },
+                    {
+                        "category": "서빙스푼/서버"
+                    },
+                    {
+                        "category": "숟가락/젓가락"
+                    },
+                    {
+                        "category": "스쿱/아이스크림스쿱"
+                    },
+                    {
+                        "category": "스푼/포크/나이프"
+                    },
+                    {
+                        "category": "컵/머그/잔"
+                    }
+                ]
+            },
+            {
+                "category": "이유/유아식기",
+                "children": [
+                    {
+                        "category": "스푼/포크"
+                    },
+                    {
+                        "category": "식판도시락"
+                    },
+                    {
+                        "category": "아동물통주머니"
+                    },
+                    {
+                        "category": "유아동수저/케이스"
+                    },
+                    {
+                        "category": "유아동식기"
+                    },
+                    {
+                        "category": "유아동식기세트"
+                    },
+                    {
+                        "category": "유아동식판/세트"
+                    },
+                    {
+                        "category": "유아식판"
+                    },
+                    {
+                        "category": "이유식기세트"
+                    },
+                    {
+                        "category": "캐릭터/아동식기"
+                    }
+                ]
+            },
+            {
+                "category": "제기/제수용품",
+                "children": [
+                    {
+                        "category": "기타제수용품"
+                    },
+                    {
+                        "category": "위패"
+                    },
+                    {
+                        "category": "제기/휴대용제기"
+                    },
+                    {
+                        "category": "제기함"
+                    },
+                    {
+                        "category": "향로/향꽂이"
+                    }
+                ]
+            },
+            {
+                "category": "조리용품",
+                "children": [
+                    {
+                        "category": "간식조리도구"
+                    },
+                    {
+                        "category": "다지기/절구/맷돌"
+                    },
+                    {
+                        "category": "믹싱볼/채반/밧드"
+                    },
+                    {
+                        "category": "바베큐용품/숯/연료"
+                    },
+                    {
+                        "category": "석쇠/철망"
+                    },
+                    {
+                        "category": "야채탈수기"
+                    },
+                    {
+                        "category": "조리도구"
+                    },
+                    {
+                        "category": "조리도구통/케이스"
+                    },
+                    {
+                        "category": "휴대용가스레인지/토치"
+                    }
+                ]
+            },
+            {
+                "category": "주방수납/정리",
+                "children": [
+                    {
+                        "category": "기타수납/정리용품"
+                    },
+                    {
+                        "category": "냉장고/냉동실정리용품"
+                    },
+                    {
+                        "category": "바나나걸이"
+                    },
+                    {
+                        "category": "식기건조대/싱크대정리"
+                    },
+                    {
+                        "category": "주방수납바구니/바스켓"
+                    }
+                ]
+            },
+            {
+                "category": "주방일회용품",
+                "children": [
+                    {
+                        "category": "기타일회용품"
+                    },
+                    {
+                        "category": "김장봉투"
+                    },
+                    {
+                        "category": "랩"
+                    },
+                    {
+                        "category": "빨대/스트로우"
+                    },
+                    {
+                        "category": "속컵/기타일회용컵용품"
+                    },
+                    {
+                        "category": "위생백/비닐봉투"
+                    },
+                    {
+                        "category": "유산지"
+                    },
+                    {
+                        "category": "일회용수저/포크"
+                    },
+                    {
+                        "category": "일회용용기/도시락"
+                    },
+                    {
+                        "category": "일회용장갑/핑거냅"
+                    },
+                    {
+                        "category": "일회용행주"
+                    },
+                    {
+                        "category": "종이컵/투명컵/일회용컵"
+                    },
+                    {
+                        "category": "종이호일"
+                    },
+                    {
+                        "category": "주방기름종이"
+                    },
+                    {
+                        "category": "지퍼백"
+                    },
+                    {
+                        "category": "컵뚜껑/홀더/캐리어"
+                    },
+                    {
+                        "category": "쿠킹호일"
+                    },
+                    {
+                        "category": "플라스틱컵/다회용컵"
+                    }
+                ]
+            },
+            {
+                "category": "주방잡화",
+                "children": [
+                    {
+                        "category": "계량용품"
+                    },
+                    {
+                        "category": "수세미/고무장갑/솔"
+                    },
+                    {
+                        "category": "앞치마/오븐장갑"
+                    },
+                    {
+                        "category": "주방소품"
+                    },
+                    {
+                        "category": "주방수전/싱크볼"
+                    },
+                    {
+                        "category": "주방위생소품"
+                    }
+                ]
+            },
+            {
+                "category": "취사도구",
+                "children": [
+                    {
+                        "category": "냄비"
+                    },
+                    {
+                        "category": "냄비/프라이팬세트"
+                    },
+                    {
+                        "category": "부자재/패킹"
+                    },
+                    {
+                        "category": "주전자"
+                    },
+                    {
+                        "category": "찜기/들통/솥"
+                    },
+                    {
+                        "category": "프라이팬"
+                    }
+                ]
+            },
+            {
+                "category": "칼/가위/도마",
+                "children": [
+                    {
+                        "category": "가위"
+                    },
+                    {
+                        "category": "과도/식도"
+                    },
+                    {
+                        "category": "도마"
+                    },
+                    {
+                        "category": "일식도/중식도"
+                    },
+                    {
+                        "category": "칼갈이/숫돌"
+                    },
+                    {
+                        "category": "칼도마세트"
+                    },
+                    {
+                        "category": "칼보관/칼블럭"
+                    },
+                    {
+                        "category": "칼세트"
+                    },
+                    {
+                        "category": "특수기능칼/만능칼"
+                    },
+                    {
+                        "category": "필러/슬라이서"
+                    }
+                ]
+            },
+            {
+                "category": "커피/티/와인",
+                "children": [
+                    {
+                        "category": "와인용품/주류용품"
+                    },
+                    {
+                        "category": "커피용품"
+                    },
+                    {
+                        "category": "티용품"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "생활용품",
+        "children": [
+            {
+                "category": "건강용품",
+                "children": [
+                    {
+                        "category": "건강보조용품"
+                    },
+                    {
+                        "category": "건강액세서리"
+                    },
+                    {
+                        "category": "건강측정용품"
+                    },
+                    {
+                        "category": "금연용품"
+                    },
+                    {
+                        "category": "눈건강/렌즈관리"
+                    },
+                    {
+                        "category": "마스크/방한대"
+                    },
+                    {
+                        "category": "보호대/교정용품"
+                    },
+                    {
+                        "category": "지압/마사지용품"
+                    },
+                    {
+                        "category": "찜질/부항/뜸/좌훈"
+                    },
+                    {
+                        "category": "호흡/수면건강"
+                    },
+                    {
+                        "category": "활동보조용품"
+                    }
+                ]
+            },
+            {
+                "category": "공구",
+                "children": [
+                    {
+                        "category": "사다리/운반용품"
+                    },
+                    {
+                        "category": "소형기계"
+                    },
+                    {
+                        "category": "수공구/공구함"
+                    },
+                    {
+                        "category": "에어공구"
+                    },
+                    {
+                        "category": "용접용품"
+                    },
+                    {
+                        "category": "인두/기타납땜용품"
+                    },
+                    {
+                        "category": "전동공구"
+                    },
+                    {
+                        "category": "절단기"
+                    },
+                    {
+                        "category": "측정도구"
+                    },
+                    {
+                        "category": "토치/점화기"
+                    }
+                ]
+            },
+            {
+                "category": "구강/면도",
+                "children": [
+                    {
+                        "category": "구강보조용품"
+                    },
+                    {
+                        "category": "구강스프레이"
+                    },
+                    {
+                        "category": "구강용품세트"
+                    },
+                    {
+                        "category": "구강청결제"
+                    },
+                    {
+                        "category": "면도기/날"
+                    },
+                    {
+                        "category": "쉐이빙케어"
+                    },
+                    {
+                        "category": "여행용 치약/칫솔키트"
+                    },
+                    {
+                        "category": "유아구강용품"
+                    },
+                    {
+                        "category": "임산부칫솔"
+                    },
+                    {
+                        "category": "치실/치간칫솔"
+                    },
+                    {
+                        "category": "치아미백제"
+                    },
+                    {
+                        "category": "치약"
+                    },
+                    {
+                        "category": "치약/칫솔선물세트"
+                    },
+                    {
+                        "category": "치솔"
+                    },
+                    {
+                        "category": "트리머"
+                    }
+                ]
+            },
+            {
+                "category": "도장용품",
+                "children": [
+                    {
+                        "category": "락카/스프레이"
+                    },
+                    {
+                        "category": "방부/방충도료"
+                    },
+                    {
+                        "category": "셀프페인팅세트"
+                    },
+                    {
+                        "category": "야외데크/목재"
+                    },
+                    {
+                        "category": "코팅제/스테인"
+                    },
+                    {
+                        "category": "코팅제/왁스"
+                    },
+                    {
+                        "category": "페인트"
+                    },
+                    {
+                        "category": "페인트보조재"
+                    },
+                    {
+                        "category": "페인트작업도구"
+                    }
+                ]
+            },
+            {
+                "category": "방충용품",
+                "children": [
+                    {
+                        "category": "모기향 연소기"
+                    },
+                    {
+                        "category": "방충/먼지방지창문필터"
+                    },
+                    {
+                        "category": "방충망"
+                    },
+                    {
+                        "category": "방충보호복"
+                    },
+                    {
+                        "category": "파리채/전자모기채"
+                    }
+                ]
+            },
+            {
+                "category": "방향/탈취/제습/살충",
+                "children": [
+                    {
+                        "category": "방충제"
+                    },
+                    {
+                        "category": "방향제"
+                    },
+                    {
+                        "category": "살균제/소독제"
+                    },
+                    {
+                        "category": "살충제/벌레약"
+                    },
+                    {
+                        "category": "새집증후군제거제"
+                    },
+                    {
+                        "category": "유아위생/건강/세제"
+                    },
+                    {
+                        "category": "제습제"
+                    },
+                    {
+                        "category": "탈취제"
+                    },
+                    {
+                        "category": "피톤치드"
+                    }
+                ]
+            },
+            {
+                "category": "배관/건축자재",
+                "children": [
+                    {
+                        "category": "DIY자재"
+                    },
+                    {
+                        "category": "가스밸브/가스차단기"
+                    },
+                    {
+                        "category": "건설자재"
+                    },
+                    {
+                        "category": "계량기/검침기"
+                    },
+                    {
+                        "category": "기타배관용품"
+                    },
+                    {
+                        "category": "배관밀봉제"
+                    },
+                    {
+                        "category": "배관보온재"
+                    },
+                    {
+                        "category": "배선용 차단기"
+                    },
+                    {
+                        "category": "배수구/역류방지트랩"
+                    },
+                    {
+                        "category": "밸브"
+                    },
+                    {
+                        "category": "보일러설비"
+                    },
+                    {
+                        "category": "소방설비"
+                    },
+                    {
+                        "category": "손잡이/문고리"
+                    },
+                    {
+                        "category": "시멘트/백색시멘트"
+                    },
+                    {
+                        "category": "실내도어/샷시"
+                    },
+                    {
+                        "category": "아스콘/도로포장자재"
+                    },
+                    {
+                        "category": "야외데크/목재"
+                    },
+                    {
+                        "category": "유리/강화유리"
+                    },
+                    {
+                        "category": "점검구/배전박스"
+                    },
+                    {
+                        "category": "창호/샷시자재"
+                    },
+                    {
+                        "category": "파이프/배관"
+                    },
+                    {
+                        "category": "호스/튜브"
+                    },
+                    {
+                        "category": "환기구/덕트"
+                    }
+                ]
+            },
+            {
+                "category": "보수용품",
+                "children": [
+                    {
+                        "category": "광택제/왁스"
+                    },
+                    {
+                        "category": "기타 보수용품"
+                    },
+                    {
+                        "category": "기타 보수제"
+                    },
+                    {
+                        "category": "녹방지/윤활제"
+                    },
+                    {
+                        "category": "단열에어캡"
+                    },
+                    {
+                        "category": "단열필름"
+                    },
+                    {
+                        "category": "문풍지"
+                    },
+                    {
+                        "category": "방수/결로방지"
+                    },
+                    {
+                        "category": "방수/코팅제"
+                    },
+                    {
+                        "category": "방음재/흡음재"
+                    },
+                    {
+                        "category": "방충테이프"
+                    },
+                    {
+                        "category": "방풍비닐/방풍커튼"
+                    },
+                    {
+                        "category": "실리콘/도구"
+                    },
+                    {
+                        "category": "우드스틱"
+                    },
+                    {
+                        "category": "우드필러"
+                    },
+                    {
+                        "category": "우레탄폼"
+                    },
+                    {
+                        "category": "타일 줄눈 보수제"
+                    },
+                    {
+                        "category": "틈막이/도어패킹"
+                    },
+                    {
+                        "category": "틈새메꿈 충진제"
+                    }
+                ]
+            },
+            {
+                "category": "생리대/성인기저귀",
+                "children": [
+                    {
+                        "category": "면 생리대"
+                    },
+                    {
+                        "category": "산모패드"
+                    },
+                    {
+                        "category": "생리컵"
+                    },
+                    {
+                        "category": "성인기저귀/패드"
+                    },
+                    {
+                        "category": "오버나이트"
+                    },
+                    {
+                        "category": "입는 오버나이트"
+                    },
+                    {
+                        "category": "체내형생리대/탐폰"
+                    },
+                    {
+                        "category": "패드형 생리대"
+                    },
+                    {
+                        "category": "팬티라이너"
+                    }
+                ]
+            },
+            {
+                "category": "생활소품",
+                "children": [
+                    {
+                        "category": "부채"
+                    },
+                    {
+                        "category": "열쇠고리/키홀더"
+                    },
+                    {
+                        "category": "열쇠보관함/키박스"
+                    },
+                    {
+                        "category": "우체통"
+                    },
+                    {
+                        "category": "저금통"
+                    },
+                    {
+                        "category": "죽비"
+                    },
+                    {
+                        "category": "효자손"
+                    }
+                ]
+            },
+            {
+                "category": "생활잡화",
+                "children": [
+                    {
+                        "category": "광고/진열소품"
+                    },
+                    {
+                        "category": "금연/흡연용품"
+                    },
+                    {
+                        "category": "기타생활용품"
+                    },
+                    {
+                        "category": "기타잡화케이스"
+                    },
+                    {
+                        "category": "발판/신발용품"
+                    },
+                    {
+                        "category": "비닐/포장용품"
+                    },
+                    {
+                        "category": "생활측정도구"
+                    },
+                    {
+                        "category": "생활테이프"
+                    },
+                    {
+                        "category": "실내보온용품"
+                    },
+                    {
+                        "category": "야외매트"
+                    },
+                    {
+                        "category": "이미용소품"
+                    },
+                    {
+                        "category": "장바구니/카트"
+                    },
+                    {
+                        "category": "정리소품"
+                    },
+                    {
+                        "category": "칠판/게시판"
+                    },
+                    {
+                        "category": "핫팩/아이스팩"
+                    }
+                ]
+            },
+            {
+                "category": "성인용품(19)",
+                "children": [
+                    {
+                        "category": "SM용품(19)"
+                    },
+                    {
+                        "category": "러브젤"
+                    },
+                    {
+                        "category": "마사지젤/오일"
+                    },
+                    {
+                        "category": "성인 가구(19)"
+                    },
+                    {
+                        "category": "성인 완구/게임(19)"
+                    },
+                    {
+                        "category": "성인용품세트(19)"
+                    },
+                    {
+                        "category": "콘돔"
+                    },
+                    {
+                        "category": "흡연용품(19)"
+                    }
+                ]
+            },
+            {
+                "category": "세제",
+                "children": [
+                    {
+                        "category": "섬유유연제"
+                    },
+                    {
+                        "category": "세제선물세트"
+                    },
+                    {
+                        "category": "세제혼합구성"
+                    },
+                    {
+                        "category": "세탁세제"
+                    },
+                    {
+                        "category": "주방세제"
+                    },
+                    {
+                        "category": "청소세제"
+                    }
+                ]
+            },
+            {
+                "category": "세탁용품",
+                "children": [
+                    {
+                        "category": "기타세탁용품"
+                    },
+                    {
+                        "category": "다리미판"
+                    },
+                    {
+                        "category": "다림용품"
+                    },
+                    {
+                        "category": "분무기"
+                    },
+                    {
+                        "category": "빨래건조대"
+                    },
+                    {
+                        "category": "빨래바구니"
+                    },
+                    {
+                        "category": "빨래줄/빨래집게"
+                    },
+                    {
+                        "category": "빨래판"
+                    },
+                    {
+                        "category": "세탁기 거름망/필터"
+                    },
+                    {
+                        "category": "세탁망"
+                    },
+                    {
+                        "category": "세탁볼"
+                    }
+                ]
+            },
+            {
+                "category": "수납/정리",
+                "children": [
+                    {
+                        "category": "공간박스/선반"
+                    },
+                    {
+                        "category": "기타수납/정리용품"
+                    },
+                    {
+                        "category": "리빙박스/압축/커버"
+                    },
+                    {
+                        "category": "바구니/이사박스"
+                    },
+                    {
+                        "category": "수납장/서랍장(플라스틱)"
+                    },
+                    {
+                        "category": "옷걸이/다용도걸이"
+                    },
+                    {
+                        "category": "행거"
+                    }
+                ]
+            },
+            {
+                "category": "안전용품",
+                "children": [
+                    {
+                        "category": "가정/생활안전용품"
+                    },
+                    {
+                        "category": "산업안전용품/장갑"
+                    },
+                    {
+                        "category": "소화기/재난용품"
+                    },
+                    {
+                        "category": "재난/방역용품"
+                    },
+                    {
+                        "category": "호신용품"
+                    }
+                ]
+            },
+            {
+                "category": "욕실용품",
+                "children": [
+                    {
+                        "category": "변기용품"
+                    },
+                    {
+                        "category": "샤워/세면대/수전"
+                    },
+                    {
+                        "category": "샤워/세면대/수전"
+                    },
+                    {
+                        "category": "욕실수납/정리"
+                    },
+                    {
+                        "category": "욕실용품/잡화"
+                    },
+                    {
+                        "category": "욕조/좌욕/족욕기"
+                    }
+                ]
+            },
+            {
+                "category": "의료/간호용품",
+                "children": [
+                    {
+                        "category": "가정의료용품"
+                    },
+                    {
+                        "category": "병원/의료용품"
+                    },
+                    {
+                        "category": "환자보조용품"
+                    }
+                ]
+            },
+            {
+                "category": "접착용품",
+                "children": [
+                    {
+                        "category": "글루건/심"
+                    },
+                    {
+                        "category": "기타특수접착제"
+                    },
+                    {
+                        "category": "다용도본드"
+                    },
+                    {
+                        "category": "목공용본드"
+                    },
+                    {
+                        "category": "순간접착제"
+                    },
+                    {
+                        "category": "스프레이접착제"
+                    },
+                    {
+                        "category": "에폭시/수지경화제"
+                    },
+                    {
+                        "category": "접착제제거제"
+                    },
+                    {
+                        "category": "테이프"
+                    }
+                ]
+            },
+            {
+                "category": "조명/전기용품",
+                "children": [
+                    {
+                        "category": "건전지"
+                    },
+                    {
+                        "category": "멀티탭/연장선"
+                    },
+                    {
+                        "category": "손전등/랜턴"
+                    },
+                    {
+                        "category": "전구/형광등"
+                    },
+                    {
+                        "category": "전기설비자재"
+                    },
+                    {
+                        "category": "조명부자재"
+                    },
+                    {
+                        "category": "플러그/어댑터"
+                    }
+                ]
+            },
+            {
+                "category": "철물",
+                "children": [
+                    {
+                        "category": "경첩/꺽쇠"
+                    },
+                    {
+                        "category": "기타철물"
+                    },
+                    {
+                        "category": "기타체결도구"
+                    },
+                    {
+                        "category": "나사/못 세트"
+                    },
+                    {
+                        "category": "나사/앙카"
+                    },
+                    {
+                        "category": "노끈"
+                    },
+                    {
+                        "category": "다이스"
+                    },
+                    {
+                        "category": "못/콘크리트못"
+                    },
+                    {
+                        "category": "볼트/너트"
+                    },
+                    {
+                        "category": "사포/샌딩스펀지"
+                    },
+                    {
+                        "category": "쇠사슬/체인"
+                    },
+                    {
+                        "category": "스프링/용수철"
+                    },
+                    {
+                        "category": "자물쇠"
+                    },
+                    {
+                        "category": "철사"
+                    }
+                ]
+            },
+            {
+                "category": "청소용품",
+                "children": [
+                    {
+                        "category": "걸레/밀대/청소포"
+                    },
+                    {
+                        "category": "먼지제거/클리너"
+                    },
+                    {
+                        "category": "물호스/릴호스/분사기"
+                    },
+                    {
+                        "category": "빗자루/쓰레받기"
+                    },
+                    {
+                        "category": "유리 청소용품"
+                    },
+                    {
+                        "category": "청소 바퀴의자"
+                    },
+                    {
+                        "category": "청소솔/스틱"
+                    },
+                    {
+                        "category": "휴지통/분리수거함"
+                    }
+                ]
+            },
+            {
+                "category": "화장지/물티슈",
+                "children": [
+                    {
+                        "category": "화장지/제지세트"
+                    },
+                    {
+                        "category": "화장지/티슈"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "가구/홈데코",
+        "children": [
+            {
+                "category": "가구",
+                "children": [
+                    {
+                        "category": "가구부속자재"
+                    },
+                    {
+                        "category": "거실테이블"
+                    },
+                    {
+                        "category": "리클라이너"
+                    },
+                    {
+                        "category": "매트리스"
+                    },
+                    {
+                        "category": "병풍/파티션"
+                    },
+                    {
+                        "category": "소파"
+                    },
+                    {
+                        "category": "수납가구"
+                    },
+                    {
+                        "category": "야외가구"
+                    },
+                    {
+                        "category": "옷장/드레스룸"
+                    },
+                    {
+                        "category": "유아동가구"
+                    },
+                    {
+                        "category": "의자"
+                    },
+                    {
+                        "category": "주방가구"
+                    },
+                    {
+                        "category": "침대"
+                    },
+                    {
+                        "category": "침실가구세트"
+                    },
+                    {
+                        "category": "토퍼"
+                    },
+                    {
+                        "category": "학생/사무용가구"
+                    },
+                    {
+                        "category": "행거"
+                    },
+                    {
+                        "category": "화장대/콘솔"
+                    }
+                ]
+            },
+            {
+                "category": "금고",
+                "children": [
+                    {
+                        "category": "가정용금고"
+                    },
+                    {
+                        "category": "금전출납기"
+                    },
+                    {
+                        "category": "기타/휴대용금고"
+                    }
+                ]
+            },
+            {
+                "category": "수선/수예도구",
+                "children": [
+                    {
+                        "category": "가죽공예용품"
+                    },
+                    {
+                        "category": "뜨개질용품"
+                    },
+                    {
+                        "category": "바늘"
+                    },
+                    {
+                        "category": "반짇고리세트"
+                    },
+                    {
+                        "category": "수선/재단도구"
+                    },
+                    {
+                        "category": "수선부자재"
+                    },
+                    {
+                        "category": "실"
+                    },
+                    {
+                        "category": "원단"
+                    },
+                    {
+                        "category": "자수/십자수"
+                    },
+                    {
+                        "category": "재봉틀용품"
+                    },
+                    {
+                        "category": "퀼트/스킬용품"
+                    },
+                    {
+                        "category": "펠트공예용품"
+                    }
+                ]
+            },
+            {
+                "category": "원예/가드닝",
+                "children": [
+                    {
+                        "category": "꽃"
+                    },
+                    {
+                        "category": "나무/다육식물"
+                    },
+                    {
+                        "category": "동양란/서양란"
+                    },
+                    {
+                        "category": "물조리개/급수장치"
+                    },
+                    {
+                        "category": "비닐/하우스"
+                    },
+                    {
+                        "category": "수경재배"
+                    },
+                    {
+                        "category": "숯화분/석부작"
+                    },
+                    {
+                        "category": "식물재배기"
+                    },
+                    {
+                        "category": "씨앗/묘종/묘목"
+                    },
+                    {
+                        "category": "원예도구/농기구"
+                    },
+                    {
+                        "category": "이벤트꽃"
+                    },
+                    {
+                        "category": "잔디깎기/예초기"
+                    },
+                    {
+                        "category": "정원장식물/조각"
+                    },
+                    {
+                        "category": "제초/살충/살균제"
+                    },
+                    {
+                        "category": "축하/근조화환"
+                    },
+                    {
+                        "category": "화병/화분"
+                    },
+                    {
+                        "category": "흙/비료"
+                    }
+                ]
+            },
+            {
+                "category": "인테리어용품",
+                "children": [
+                    {
+                        "category": "거울"
+                    },
+                    {
+                        "category": "그림/사진"
+                    },
+                    {
+                        "category": "시계"
+                    },
+                    {
+                        "category": "액자/프레임"
+                    },
+                    {
+                        "category": "인테리어소품"
+                    },
+                    {
+                        "category": "조명/스탠드"
+                    },
+                    {
+                        "category": "캔들/방향제"
+                    },
+                    {
+                        "category": "크리스마스용품"
+                    }
+                ]
+            },
+            {
+                "category": "인테리어자재",
+                "children": [
+                    {
+                        "category": "벽지/도배용품"
+                    },
+                    {
+                        "category": "시트지"
+                    },
+                    {
+                        "category": "인테리어스티커"
+                    },
+                    {
+                        "category": "폼블럭/폼패널"
+                    }
+                ]
+            },
+            {
+                "category": "침구",
+                "children": [
+                    {
+                        "category": "담요"
+                    },
+                    {
+                        "category": "롱쿠션/바디필로우"
+                    },
+                    {
+                        "category": "베개/베개솜"
+                    },
+                    {
+                        "category": "베개커버"
+                    },
+                    {
+                        "category": "요/매트/패드"
+                    },
+                    {
+                        "category": "유아동침구"
+                    },
+                    {
+                        "category": "이불"
+                    },
+                    {
+                        "category": "이불속/속통"
+                    },
+                    {
+                        "category": "이불솜/요솜"
+                    },
+                    {
+                        "category": "죽부인"
+                    },
+                    {
+                        "category": "침구세트류"
+                    },
+                    {
+                        "category": "침구커버류"
+                    },
+                    {
+                        "category": "쿨매트"
+                    }
+                ]
+            },
+            {
+                "category": "카페트/매트",
+                "children": [
+                    {
+                        "category": "PVC발매트/주방매트"
+                    },
+                    {
+                        "category": "놀이/다용도매트"
+                    },
+                    {
+                        "category": "대자리"
+                    },
+                    {
+                        "category": "러그/카페트"
+                    },
+                    {
+                        "category": "왕골자리"
+                    },
+                    {
+                        "category": "원목/우드카페트"
+                    },
+                    {
+                        "category": "패브릭발매트/주방매트"
+                    }
+                ]
+            },
+            {
+                "category": "커튼/침장",
+                "children": [
+                    {
+                        "category": "난방텐트"
+                    },
+                    {
+                        "category": "롤스크린"
+                    },
+                    {
+                        "category": "문발"
+                    },
+                    {
+                        "category": "버티칼"
+                    },
+                    {
+                        "category": "블라인드/쉐이드"
+                    },
+                    {
+                        "category": "캐노피/모기장"
+                    },
+                    {
+                        "category": "커튼"
+                    },
+                    {
+                        "category": "커튼/블라인드부자재"
+                    }
+                ]
+            },
+            {
+                "category": "쿠션/방석",
+                "children": [
+                    {
+                        "category": "방석"
+                    },
+                    {
+                        "category": "소파패드"
+                    },
+                    {
+                        "category": "쿠션"
+                    },
+                    {
+                        "category": "쿠션/방석세트"
+                    }
+                ]
+            },
+            {
+                "category": "패브릭소품/커버",
+                "children": [
+                    {
+                        "category": "가구커버류"
+                    },
+                    {
+                        "category": "가전제품커버"
+                    },
+                    {
+                        "category": "거실화/실내화"
+                    },
+                    {
+                        "category": "문고리/손잡이커버"
+                    },
+                    {
+                        "category": "주방패브릭"
+                    },
+                    {
+                        "category": "티슈/휴지커버"
+                    },
+                    {
+                        "category": "패브릭수납/정리포켓"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "가전/디지털",
+        "children": [
+            {
+                "category": "TV/영상가전",
+                "children": [
+                    {
+                        "category": "TV"
+                    },
+                    {
+                        "category": "블루레이/DVD/DivX"
+                    },
+                    {
+                        "category": "케이블/젠더"
+                    },
+                    {
+                        "category": "프로젝터/스크린"
+                    },
+                    {
+                        "category": "홈시어터 악세사리"
+                    }
+                ]
+            },
+            {
+                "category": "계절환경가전",
+                "children": [
+                    {
+                        "category": "가습기/에어워셔/공기청정기"
+                    },
+                    {
+                        "category": "냉난방/에어컨"
+                    },
+                    {
+                        "category": "모기/해충 퇴치기"
+                    },
+                    {
+                        "category": "선풍기/서큘레이터"
+                    },
+                    {
+                        "category": "손발난로"
+                    },
+                    {
+                        "category": "온수/전기매트"
+                    },
+                    {
+                        "category": "제습기"
+                    },
+                    {
+                        "category": "히터/온풍기/보일러"
+                    }
+                ]
+            },
+            {
+                "category": "냉장고/밥솥/주방가전",
+                "children": [
+                    {
+                        "category": "가스/전기레인지"
+                    },
+                    {
+                        "category": "김치냉장고"
+                    },
+                    {
+                        "category": "냉장고"
+                    },
+                    {
+                        "category": "믹서/원액/반죽기"
+                    },
+                    {
+                        "category": "식기세척/살균건조기"
+                    },
+                    {
+                        "category": "식품건조/진공포장/음식물처리기"
+                    },
+                    {
+                        "category": "오븐/전자레인지"
+                    },
+                    {
+                        "category": "전기밥솥"
+                    },
+                    {
+                        "category": "전기포트/토스터/튀김기"
+                    },
+                    {
+                        "category": "정수기/냉온수기"
+                    },
+                    {
+                        "category": "중탕기/영양식/간식제조기"
+                    },
+                    {
+                        "category": "측정계량/기타주방가전"
+                    },
+                    {
+                        "category": "커피메이커/머신"
+                    },
+                    {
+                        "category": "환풍기/레인지후드"
+                    }
+                ]
+            },
+            {
+                "category": "생활가전",
+                "children": [
+                    {
+                        "category": "다리미/재봉틀/보풀제거기"
+                    },
+                    {
+                        "category": "도어록/비디오폰/보안"
+                    },
+                    {
+                        "category": "비데/온수기"
+                    },
+                    {
+                        "category": "세탁기/건조기"
+                    },
+                    {
+                        "category": "전동칫솔/구강세정기/살균기"
+                    },
+                    {
+                        "category": "전화기/무전기"
+                    },
+                    {
+                        "category": "청소기"
+                    }
+                ]
+            },
+            {
+                "category": "음향기기/이어폰/스피커",
+                "children": [
+                    {
+                        "category": "MP3/녹음기/전자사전"
+                    },
+                    {
+                        "category": "동글/리시버"
+                    },
+                    {
+                        "category": "마이크/PA/레코딩장비"
+                    },
+                    {
+                        "category": "블루투스 스피커"
+                    },
+                    {
+                        "category": "블루투스 이어폰/헤드폰/이어셋"
+                    },
+                    {
+                        "category": "오디오/카세트/라디오"
+                    },
+                    {
+                        "category": "유선이어폰/헤드폰"
+                    },
+                    {
+                        "category": "홈시어터/HiFi"
+                    },
+                    {
+                        "category": "휴대용 스피커"
+                    }
+                ]
+            },
+            {
+                "category": "이미용건강가전",
+                "children": [
+                    {
+                        "category": "살균소독기"
+                    },
+                    {
+                        "category": "안마기/건강/이미용가전"
+                    }
+                ]
+            },
+            {
+                "category": "카메라/캠코더",
+                "children": [
+                    {
+                        "category": "렌즈/디카액세서리"
+                    },
+                    {
+                        "category": "즉석/필름카메라"
+                    },
+                    {
+                        "category": "초소형/히든카메라"
+                    },
+                    {
+                        "category": "카메라"
+                    },
+                    {
+                        "category": "캠코더/액션캠"
+                    }
+                ]
+            },
+            {
+                "category": "컴퓨터/게임/SW",
+                "children": [
+                    {
+                        "category": "PC 부품/주변기기"
+                    },
+                    {
+                        "category": "게임기/소프트웨어"
+                    },
+                    {
+                        "category": "공유기/네트워크/CCTV"
+                    },
+                    {
+                        "category": "노트북"
+                    },
+                    {
+                        "category": "데스크탑/미니/일체형PC"
+                    },
+                    {
+                        "category": "모니터"
+                    },
+                    {
+                        "category": "복합기/프린터/스캐너"
+                    },
+                    {
+                        "category": "사무기기"
+                    },
+                    {
+                        "category": "저장장치"
+                    }
+                ]
+            },
+            {
+                "category": "휴대폰/태블릿PC/액세서리",
+                "children": [
+                    {
+                        "category": "메모리카드/카드리더"
+                    },
+                    {
+                        "category": "배터리/충전기"
+                    },
+                    {
+                        "category": "태블릿PC용 액세서리"
+                    },
+                    {
+                        "category": "터치펜"
+                    },
+                    {
+                        "category": "휴대폰/태블릿PC"
+                    },
+                    {
+                        "category": "휴대폰용 액세서리"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "스포츠/레져",
+        "children": [
+            {
+                "category": "검도/격투/무술",
+                "children": [
+                    {
+                        "category": "검도"
+                    },
+                    {
+                        "category": "권투/격투기"
+                    },
+                    {
+                        "category": "쌍절곤/기타무술"
+                    },
+                    {
+                        "category": "주짓수/유도"
+                    },
+                    {
+                        "category": "태권도"
+                    }
+                ]
+            },
+            {
+                "category": "골프",
+                "children": [
+                    {
+                        "category": "골프공"
+                    },
+                    {
+                        "category": "골프백"
+                    },
+                    {
+                        "category": "골프신발"
+                    },
+                    {
+                        "category": "골프의류"
+                    },
+                    {
+                        "category": "골프잡화"
+                    },
+                    {
+                        "category": "골프클럽"
+                    },
+                    {
+                        "category": "골프클럽 부품"
+                    },
+                    {
+                        "category": "연습용품"
+                    },
+                    {
+                        "category": "필드용품"
+                    }
+                ]
+            },
+            {
+                "category": "구기스포츠",
+                "children": [
+                    {
+                        "category": "공 정리/보관용품"
+                    },
+                    {
+                        "category": "넷볼/츄크볼/기타구기용품"
+                    },
+                    {
+                        "category": "농구"
+                    },
+                    {
+                        "category": "당구/포켓볼"
+                    },
+                    {
+                        "category": "미식축구/럭비"
+                    },
+                    {
+                        "category": "배구/피구/족구"
+                    },
+                    {
+                        "category": "볼링"
+                    },
+                    {
+                        "category": "볼펌프/에어펌프"
+                    },
+                    {
+                        "category": "야구"
+                    },
+                    {
+                        "category": "응원용품"
+                    },
+                    {
+                        "category": "축구"
+                    },
+                    {
+                        "category": "티볼/소프트볼용품"
+                    },
+                    {
+                        "category": "플로어볼/게이트볼용품"
+                    },
+                    {
+                        "category": "하키"
+                    },
+                    {
+                        "category": "핸드볼"
+                    },
+                    {
+                        "category": "훈련/연습용품"
+                    }
+                ]
+            },
+            {
+                "category": "기타스포츠",
+                "children": [
+                    {
+                        "category": "기타스포츠화"
+                    },
+                    {
+                        "category": "다트/레저"
+                    },
+                    {
+                        "category": "마라톤"
+                    },
+                    {
+                        "category": "서바이벌게임용품"
+                    },
+                    {
+                        "category": "양궁/사격/승마"
+                    },
+                    {
+                        "category": "육상/체조"
+                    },
+                    {
+                        "category": "팀 유니폼"
+                    }
+                ]
+            },
+            {
+                "category": "낚시",
+                "children": [
+                    {
+                        "category": "낚시가방/잡화"
+                    },
+                    {
+                        "category": "낚시공구/소품"
+                    },
+                    {
+                        "category": "낚시릴"
+                    },
+                    {
+                        "category": "낚시신발"
+                    },
+                    {
+                        "category": "낚시의류"
+                    },
+                    {
+                        "category": "낚시장비"
+                    },
+                    {
+                        "category": "낚싯대"
+                    },
+                    {
+                        "category": "미끼/떡밥/루어"
+                    },
+                    {
+                        "category": "좌대/야외용품"
+                    },
+                    {
+                        "category": "줄/바늘/미끼/채비"
+                    }
+                ]
+            },
+            {
+                "category": "등산",
+                "children": [
+                    {
+                        "category": "등반용 장비"
+                    },
+                    {
+                        "category": "등산/아웃도어 신발"
+                    },
+                    {
+                        "category": "등산/아웃도어 잡화"
+                    },
+                    {
+                        "category": "등산/아웃도어 지갑/케이스"
+                    },
+                    {
+                        "category": "등산배낭 소품"
+                    },
+                    {
+                        "category": "등산배낭 커버"
+                    },
+                    {
+                        "category": "등산배낭/등산가방"
+                    },
+                    {
+                        "category": "등산스틱"
+                    },
+                    {
+                        "category": "로프/줄"
+                    },
+                    {
+                        "category": "보호장비"
+                    },
+                    {
+                        "category": "얼음장비"
+                    },
+                    {
+                        "category": "응급/안전용품"
+                    },
+                    {
+                        "category": "초크/초크백"
+                    },
+                    {
+                        "category": "측정장비"
+                    },
+                    {
+                        "category": "카라비너/퀵드로"
+                    },
+                    {
+                        "category": "훈련용품"
+                    }
+                ]
+            },
+            {
+                "category": "라켓스포츠",
+                "children": [
+                    {
+                        "category": "기타 라켓용품"
+                    },
+                    {
+                        "category": "배드민턴"
+                    },
+                    {
+                        "category": "배드민턴/탁구/테니스 공용"
+                    },
+                    {
+                        "category": "스쿼시"
+                    },
+                    {
+                        "category": "탁구"
+                    },
+                    {
+                        "category": "테니스"
+                    }
+                ]
+            },
+            {
+                "category": "발레/댄스/에어로빅",
+                "children": [
+                    {
+                        "category": "댄스스포츠복"
+                    },
+                    {
+                        "category": "발레/댄스화"
+                    },
+                    {
+                        "category": "발레복"
+                    },
+                    {
+                        "category": "밸리댄스복"
+                    },
+                    {
+                        "category": "에어로빅복"
+                    },
+                    {
+                        "category": "에어로빅스타킹/타이즈"
+                    }
+                ]
+            },
+            {
+                "category": "수영/수상스포츠",
+                "children": [
+                    {
+                        "category": "래쉬가드"
+                    },
+                    {
+                        "category": "서핑/수상보드"
+                    },
+                    {
+                        "category": "수상스키"
+                    },
+                    {
+                        "category": "수영/물놀이용품"
+                    },
+                    {
+                        "category": "수영복"
+                    },
+                    {
+                        "category": "수영잡화"
+                    },
+                    {
+                        "category": "스노클링/다이빙"
+                    },
+                    {
+                        "category": "제트스키"
+                    },
+                    {
+                        "category": "카누/카약/보트"
+                    }
+                ]
+            },
+            {
+                "category": "스키/겨울스포츠",
+                "children": [
+                    {
+                        "category": "보드복"
+                    },
+                    {
+                        "category": "빙상스포츠"
+                    },
+                    {
+                        "category": "스노우보드화"
+                    },
+                    {
+                        "category": "스키/보드 잡화"
+                    },
+                    {
+                        "category": "스키/보드복"
+                    },
+                    {
+                        "category": "스키/보드장비"
+                    },
+                    {
+                        "category": "스키복"
+                    },
+                    {
+                        "category": "스키부츠"
+                    }
+                ]
+            },
+            {
+                "category": "스포츠 신발",
+                "children": [
+                    {
+                        "category": "스포츠슬리퍼/쪼리"
+                    },
+                    {
+                        "category": "아쿠아/메시슈즈"
+                    }
+                ]
+            },
+            {
+                "category": "스포츠 잡화",
+                "children": [
+                    {
+                        "category": "드라이백"
+                    },
+                    {
+                        "category": "레그워머/발토시"
+                    },
+                    {
+                        "category": "바라클라바/후드넥워머"
+                    },
+                    {
+                        "category": "소품"
+                    },
+                    {
+                        "category": "스카프/넥워머/아이스머플러"
+                    },
+                    {
+                        "category": "스포츠 가방"
+                    },
+                    {
+                        "category": "스포츠 귀마개"
+                    },
+                    {
+                        "category": "스포츠 마스크"
+                    },
+                    {
+                        "category": "스포츠 모자"
+                    },
+                    {
+                        "category": "스포츠 목걸이/팔찌"
+                    },
+                    {
+                        "category": "스포츠 물병"
+                    },
+                    {
+                        "category": "스포츠 벨트"
+                    },
+                    {
+                        "category": "스포츠 선글라스"
+                    },
+                    {
+                        "category": "스포츠 시계"
+                    },
+                    {
+                        "category": "스포츠 아대/헤어밴드"
+                    },
+                    {
+                        "category": "스포츠 양말"
+                    },
+                    {
+                        "category": "스포츠 장갑"
+                    },
+                    {
+                        "category": "팔토시/쿨토시"
+                    },
+                    {
+                        "category": "핸드/암워머"
+                    }
+                ]
+            },
+            {
+                "category": "심판용품",
+                "children": [
+                    {
+                        "category": "기록지/카드"
+                    },
+                    {
+                        "category": "선심기/부심기"
+                    },
+                    {
+                        "category": "심판 보호대"
+                    },
+                    {
+                        "category": "심판의류"
+                    },
+                    {
+                        "category": "작전판"
+                    },
+                    {
+                        "category": "점수판/스코어보드"
+                    },
+                    {
+                        "category": "호루라기"
+                    }
+                ]
+            },
+            {
+                "category": "자전거",
+                "children": [
+                    {
+                        "category": "BMX자전거"
+                    },
+                    {
+                        "category": "MTB/산악용"
+                    },
+                    {
+                        "category": "거치대/트레이너"
+                    },
+                    {
+                        "category": "로드 자전거"
+                    },
+                    {
+                        "category": "리컴번트 자전거"
+                    },
+                    {
+                        "category": "보호장비"
+                    },
+                    {
+                        "category": "아동용자전거"
+                    },
+                    {
+                        "category": "외발 자전거"
+                    },
+                    {
+                        "category": "자전거 바구니/가방"
+                    },
+                    {
+                        "category": "자전거 신발/페달"
+                    },
+                    {
+                        "category": "자전거 악세서리"
+                    },
+                    {
+                        "category": "자전거 잡화"
+                    },
+                    {
+                        "category": "자전거/라이딩복"
+                    },
+                    {
+                        "category": "자전거부품"
+                    },
+                    {
+                        "category": "전기자전거"
+                    },
+                    {
+                        "category": "정비용품"
+                    },
+                    {
+                        "category": "클래식/미니벨로"
+                    },
+                    {
+                        "category": "텐덤/2인용 자전거"
+                    },
+                    {
+                        "category": "펫바이크"
+                    },
+                    {
+                        "category": "픽시 자전거"
+                    },
+                    {
+                        "category": "하이브리드자전거"
+                    }
+                ]
+            },
+            {
+                "category": "철인3종경기",
+                "children": [
+                    {
+                        "category": "경기복"
+                    }
+                ]
+            },
+            {
+                "category": "측정용품",
+                "children": [
+                    {
+                        "category": "계수기/카운터"
+                    },
+                    {
+                        "category": "만보기/심박/칼로리측정기"
+                    },
+                    {
+                        "category": "스톱워치/타이머"
+                    }
+                ]
+            },
+            {
+                "category": "캠핑",
+                "children": [
+                    {
+                        "category": "랜턴/조명"
+                    },
+                    {
+                        "category": "수납/정리소품"
+                    },
+                    {
+                        "category": "의자/테이블"
+                    },
+                    {
+                        "category": "침낭/매트/해먹"
+                    },
+                    {
+                        "category": "캠핑공구"
+                    },
+                    {
+                        "category": "캠핑주방용품"
+                    },
+                    {
+                        "category": "타프/그늘막"
+                    },
+                    {
+                        "category": "텐트"
+                    },
+                    {
+                        "category": "텐트/타프 부품"
+                    },
+                    {
+                        "category": "화장실/샤워용품"
+                    }
+                ]
+            },
+            {
+                "category": "킥보드/스케이트",
+                "children": [
+                    {
+                        "category": "스케이트보드"
+                    },
+                    {
+                        "category": "인라인/롤러스케이트"
+                    },
+                    {
+                        "category": "전동휠/보드"
+                    },
+                    {
+                        "category": "킥보드/트라이더"
+                    }
+                ]
+            },
+            {
+                "category": "헬스/요가",
+                "children": [
+                    {
+                        "category": "요가/필라테스 잡화"
+                    },
+                    {
+                        "category": "요가/필라테스용품"
+                    },
+                    {
+                        "category": "요가복"
+                    },
+                    {
+                        "category": "헬스기구/용품"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "자동차용품",
+        "children": [
+            {
+                "category": "DIY/공구용품",
+                "children": [
+                    {
+                        "category": "DIY용품"
+                    },
+                    {
+                        "category": "공구/장비/캠핑"
+                    }
+                ]
+            },
+            {
+                "category": "공기청정/방향/탈취",
+                "children": [
+                    {
+                        "category": "방향제/디퓨저"
+                    },
+                    {
+                        "category": "세정제/세정티슈"
+                    },
+                    {
+                        "category": "차량용 블로워"
+                    },
+                    {
+                        "category": "차량용가습기"
+                    },
+                    {
+                        "category": "차량용공기청정기"
+                    },
+                    {
+                        "category": "차량용탈취제"
+                    },
+                    {
+                        "category": "향균필터/에어컨필터"
+                    }
+                ]
+            },
+            {
+                "category": "램프/배터리/전기",
+                "children": [
+                    {
+                        "category": "램프/LED/HID"
+                    },
+                    {
+                        "category": "배터리/전기용품"
+                    }
+                ]
+            },
+            {
+                "category": "매트/시트/쿠션",
+                "children": [
+                    {
+                        "category": "바닥매트/카매트"
+                    },
+                    {
+                        "category": "차량용방석"
+                    },
+                    {
+                        "category": "차량용시트"
+                    },
+                    {
+                        "category": "차량용쿠션"
+                    },
+                    {
+                        "category": "차박매트"
+                    },
+                    {
+                        "category": "쿠션방석세트"
+                    },
+                    {
+                        "category": "트렁크매트"
+                    }
+                ]
+            },
+            {
+                "category": "비상/안전/차량가전",
+                "children": [
+                    {
+                        "category": "비상/안전용품"
+                    },
+                    {
+                        "category": "차량가전용품"
+                    }
+                ]
+            },
+            {
+                "category": "세차/관리용품",
+                "children": [
+                    {
+                        "category": "관리용품"
+                    },
+                    {
+                        "category": "세차용품"
+                    },
+                    {
+                        "category": "세차용품세트"
+                    }
+                ]
+            },
+            {
+                "category": "실내용품",
+                "children": [
+                    {
+                        "category": "인테리어용품"
+                    },
+                    {
+                        "category": "차량용수납용품"
+                    },
+                    {
+                        "category": "차량용편의용품"
+                    }
+                ]
+            },
+            {
+                "category": "실외용품",
+                "children": [
+                    {
+                        "category": "익스테리어용품"
+                    }
+                ]
+            },
+            {
+                "category": "오일/정비/소모품",
+                "children": [
+                    {
+                        "category": "부동액/첨가제"
+                    },
+                    {
+                        "category": "오일/연료필터"
+                    },
+                    {
+                        "category": "차량오일용품"
+                    }
+                ]
+            },
+            {
+                "category": "오토바이용품",
+                "children": [
+                    {
+                        "category": "보호대/보호장비"
+                    },
+                    {
+                        "category": "오토바이/스쿠터"
+                    },
+                    {
+                        "category": "오토바이의류"
+                    },
+                    {
+                        "category": "오토바이전자기기"
+                    },
+                    {
+                        "category": "잡화/액세서리"
+                    },
+                    {
+                        "category": "튜닝/부품/정비"
+                    },
+                    {
+                        "category": "헬멧/장갑/부츠"
+                    }
+                ]
+            },
+            {
+                "category": "차량용디지털기기",
+                "children": [
+                    {
+                        "category": "경보기/스마트키"
+                    },
+                    {
+                        "category": "내비게이션/액세서리"
+                    },
+                    {
+                        "category": "블랙박스/액세서리"
+                    },
+                    {
+                        "category": "스마트기기용품"
+                    },
+                    {
+                        "category": "차량용거치대"
+                    },
+                    {
+                        "category": "차량용스마트기기"
+                    },
+                    {
+                        "category": "차량용음향기기"
+                    },
+                    {
+                        "category": "하이패스/액세서리"
+                    },
+                    {
+                        "category": "후방카메라/감지기"
+                    }
+                ]
+            },
+            {
+                "category": "차량용튜닝용품",
+                "children": [
+                    {
+                        "category": "기타정비부품"
+                    },
+                    {
+                        "category": "레이싱용품"
+                    },
+                    {
+                        "category": "바디보강/하체튜닝"
+                    },
+                    {
+                        "category": "브레이크용품"
+                    },
+                    {
+                        "category": "스포일러/에어로파츠"
+                    },
+                    {
+                        "category": "엔진튠업"
+                    },
+                    {
+                        "category": "흡기/배기튜닝"
+                    }
+                ]
+            },
+            {
+                "category": "타이어/휠/체인",
+                "children": [
+                    {
+                        "category": "체인용품"
+                    },
+                    {
+                        "category": "타이어용품"
+                    },
+                    {
+                        "category": "휠/휠액세서리"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "도서",
+        "children": [
+            {
+                "category": "교육수강권",
+                "children": [
+                    {
+                        "category": "어학학습"
+                    },
+                    {
+                        "category": "유아동 학습수강권"
+                    },
+                    {
+                        "category": "자격증/기타학습수강권"
+                    },
+                    {
+                        "category": "중고등 학습수강권"
+                    }
+                ]
+            },
+            {
+                "category": "국내도서",
+                "children": [
+                    {
+                        "category": "IT 모바일"
+                    },
+                    {
+                        "category": "가정 살림"
+                    },
+                    {
+                        "category": "건강 취미"
+                    },
+                    {
+                        "category": "경제 경영"
+                    },
+                    {
+                        "category": "국어 외국어 사전"
+                    },
+                    {
+                        "category": "대학교재"
+                    },
+                    {
+                        "category": "만화/라이트노벨"
+                    },
+                    {
+                        "category": "문학"
+                    },
+                    {
+                        "category": "사회 정치"
+                    },
+                    {
+                        "category": "수험서/자격증"
+                    },
+                    {
+                        "category": "어린이"
+                    },
+                    {
+                        "category": "여행"
+                    },
+                    {
+                        "category": "역사"
+                    },
+                    {
+                        "category": "예술"
+                    },
+                    {
+                        "category": "유아"
+                    },
+                    {
+                        "category": "인문"
+                    },
+                    {
+                        "category": "자기계발"
+                    },
+                    {
+                        "category": "자연과학"
+                    },
+                    {
+                        "category": "잡지"
+                    },
+                    {
+                        "category": "전집"
+                    },
+                    {
+                        "category": "종교"
+                    },
+                    {
+                        "category": "중고등참고서"
+                    },
+                    {
+                        "category": "청소년"
+                    },
+                    {
+                        "category": "초등참고서"
+                    }
+                ]
+            },
+            {
+                "category": "외국도서",
+                "children": [
+                    {
+                        "category": "ANTIQUES & COLLECTIBLES"
+                    },
+                    {
+                        "category": "ARCHITECTURE"
+                    },
+                    {
+                        "category": "ART"
+                    },
+                    {
+                        "category": "BIBLES"
+                    },
+                    {
+                        "category": "BIOGRAPHY & AUTOBIOGRAPHY"
+                    },
+                    {
+                        "category": "BODY, MIND & SPIRIT"
+                    },
+                    {
+                        "category": "BUSINESS & ECONOMICS"
+                    },
+                    {
+                        "category": "COMICS & GRAPHIC NOVELS"
+                    },
+                    {
+                        "category": "COMPUTERS"
+                    },
+                    {
+                        "category": "COOKING"
+                    },
+                    {
+                        "category": "CRAFTS & HOBBIES"
+                    },
+                    {
+                        "category": "DESIGN"
+                    },
+                    {
+                        "category": "DRAMA"
+                    },
+                    {
+                        "category": "EDUCATION"
+                    },
+                    {
+                        "category": "FAMILY & RELATIONSHIPS"
+                    },
+                    {
+                        "category": "FICTION"
+                    },
+                    {
+                        "category": "FOREIGN LANGUAGE STUDY"
+                    },
+                    {
+                        "category": "GAMES & ACTIVITIES"
+                    },
+                    {
+                        "category": "GARDENING"
+                    },
+                    {
+                        "category": "HEALTH & FITNESS"
+                    },
+                    {
+                        "category": "HISTORY"
+                    },
+                    {
+                        "category": "HOUSE & HOME"
+                    },
+                    {
+                        "category": "HUMOR"
+                    },
+                    {
+                        "category": "JUVENILE FICTION"
+                    },
+                    {
+                        "category": "JUVENILE NONFICTION"
+                    },
+                    {
+                        "category": "LANGUAGE ARTS & DISCIPLINES"
+                    },
+                    {
+                        "category": "LAW"
+                    },
+                    {
+                        "category": "LITERARY COLLECTIONS"
+                    },
+                    {
+                        "category": "LITERARY CRITICISM"
+                    },
+                    {
+                        "category": "MATHEMATICS"
+                    },
+                    {
+                        "category": "MEDICAL"
+                    },
+                    {
+                        "category": "MUSIC"
+                    },
+                    {
+                        "category": "Magazine"
+                    },
+                    {
+                        "category": "NATURE"
+                    },
+                    {
+                        "category": "PERFORMING ARTS"
+                    },
+                    {
+                        "category": "PETS"
+                    },
+                    {
+                        "category": "PHILOSOPHY"
+                    },
+                    {
+                        "category": "PHOTOGRAPHY"
+                    },
+                    {
+                        "category": "POETRY"
+                    },
+                    {
+                        "category": "POLITICAL SCIENCE"
+                    },
+                    {
+                        "category": "PSYCHOLOGY"
+                    },
+                    {
+                        "category": "REFERENCE"
+                    },
+                    {
+                        "category": "RELIGION"
+                    },
+                    {
+                        "category": "SCIENCE"
+                    },
+                    {
+                        "category": "SELF-HELP"
+                    },
+                    {
+                        "category": "SOCIAL SCIENCE"
+                    },
+                    {
+                        "category": "SPORTS & RECREATION"
+                    },
+                    {
+                        "category": "STUDY AIDS"
+                    },
+                    {
+                        "category": "TECHNOLOGY & ENGINEERING"
+                    },
+                    {
+                        "category": "TRANSPORTATION"
+                    },
+                    {
+                        "category": "TRAVEL"
+                    },
+                    {
+                        "category": "TRUE CRIME"
+                    },
+                    {
+                        "category": "YOUNG ADULT FICTION"
+                    },
+                    {
+                        "category": "YOUNG ADULT NONFICTION"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "문구/오피스",
+        "children": [
+            {
+                "category": "문구/학용품",
+                "children": [
+                    {
+                        "category": "과목별준비물"
+                    },
+                    {
+                        "category": "노트/다이어리/캘린더"
+                    },
+                    {
+                        "category": "봉투"
+                    },
+                    {
+                        "category": "스탬프/도장/씰링"
+                    },
+                    {
+                        "category": "스테이플러/펀치"
+                    },
+                    {
+                        "category": "스티커"
+                    },
+                    {
+                        "category": "앨범/스크랩북"
+                    },
+                    {
+                        "category": "자/컴퍼스"
+                    },
+                    {
+                        "category": "지우개/수정용품"
+                    },
+                    {
+                        "category": "카드/엽서/편지용품"
+                    },
+                    {
+                        "category": "칼/가위"
+                    },
+                    {
+                        "category": "클립/압정/자석"
+                    },
+                    {
+                        "category": "포장/파티용품"
+                    },
+                    {
+                        "category": "풀/테이프/접착제"
+                    },
+                    {
+                        "category": "필기구/필통"
+                    }
+                ]
+            },
+            {
+                "category": "미술/화방용품",
+                "children": [
+                    {
+                        "category": "만들기재료"
+                    },
+                    {
+                        "category": "미술보조용품"
+                    },
+                    {
+                        "category": "붓/물감/채색용품"
+                    },
+                    {
+                        "category": "제도용품"
+                    },
+                    {
+                        "category": "지류/스케치북/캔버스"
+                    }
+                ]
+            },
+            {
+                "category": "사무기기",
+                "children": [
+                    {
+                        "category": "세단기/파쇄기"
+                    },
+                    {
+                        "category": "재단기/소모품"
+                    },
+                    {
+                        "category": "제본기/소모품"
+                    },
+                    {
+                        "category": "지폐계수기/감별기"
+                    },
+                    {
+                        "category": "천공기/소모품"
+                    },
+                    {
+                        "category": "출퇴근기록기"
+                    },
+                    {
+                        "category": "카드단말기"
+                    },
+                    {
+                        "category": "코팅기/소모품"
+                    },
+                    {
+                        "category": "팩스"
+                    }
+                ]
+            },
+            {
+                "category": "사무용품",
+                "children": [
+                    {
+                        "category": "계산기"
+                    },
+                    {
+                        "category": "다이모/라벨테이프"
+                    },
+                    {
+                        "category": "데스크정리용품"
+                    },
+                    {
+                        "category": "독서용품"
+                    },
+                    {
+                        "category": "바인더"
+                    },
+                    {
+                        "category": "보드/게시판/칠판"
+                    },
+                    {
+                        "category": "사무용지류"
+                    },
+                    {
+                        "category": "인감도장"
+                    },
+                    {
+                        "category": "장부/전표/서식지"
+                    },
+                    {
+                        "category": "점포/판촉용품"
+                    },
+                    {
+                        "category": "파일"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "음반/DVD",
+        "children": [
+            {
+                "category": "CD/LP",
+                "children": [
+                    {
+                        "category": "OST"
+                    },
+                    {
+                        "category": "POP"
+                    },
+                    {
+                        "category": "ROCK"
+                    },
+                    {
+                        "category": "가요"
+                    },
+                    {
+                        "category": "국악"
+                    },
+                    {
+                        "category": "뉴에이지"
+                    },
+                    {
+                        "category": "성인음반(19)"
+                    },
+                    {
+                        "category": "월드뮤직"
+                    },
+                    {
+                        "category": "유아/어린이"
+                    },
+                    {
+                        "category": "일본음악"
+                    },
+                    {
+                        "category": "재즈"
+                    },
+                    {
+                        "category": "종교음악"
+                    },
+                    {
+                        "category": "클래식"
+                    },
+                    {
+                        "category": "태교/명상/치유"
+                    }
+                ]
+            },
+            {
+                "category": "DVD/블루레이",
+                "children": [
+                    {
+                        "category": "건강/취미/스포츠"
+                    },
+                    {
+                        "category": "교양/다큐멘터리"
+                    },
+                    {
+                        "category": "뮤직"
+                    },
+                    {
+                        "category": "성인 교육"
+                    },
+                    {
+                        "category": "성인(19)"
+                    },
+                    {
+                        "category": "유아동 교육"
+                    },
+                    {
+                        "category": "장르별영화"
+                    },
+                    {
+                        "category": "한국TV드라마"
+                    },
+                    {
+                        "category": "해외TV드라마"
+                    }
+                ]
+            },
+            {
+                "category": "굿즈/스타샵",
+                "children": [
+                    {
+                        "category": "방송굿즈"
+                    },
+                    {
+                        "category": "연예인굿즈"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "완구/취미",
+        "children": [
+            {
+                "category": "DIY",
+                "children": [
+                    {
+                        "category": "구슬/비즈 DIY"
+                    },
+                    {
+                        "category": "그림그리기 DIY"
+                    },
+                    {
+                        "category": "미니어쳐 DIY"
+                    },
+                    {
+                        "category": "비누 DIY"
+                    },
+                    {
+                        "category": "신생아완구DIY키트"
+                    },
+                    {
+                        "category": "태교바느질DIY키트"
+                    },
+                    {
+                        "category": "피젯스피너DIY"
+                    }
+                ]
+            },
+            {
+                "category": "RC완구/부품",
+                "children": [
+                    {
+                        "category": "RC드론/쿼드콥터"
+                    },
+                    {
+                        "category": "RC바이크/오토바이"
+                    },
+                    {
+                        "category": "RC보트/잠수함"
+                    },
+                    {
+                        "category": "RC부품/액세서리"
+                    },
+                    {
+                        "category": "RC비행기"
+                    },
+                    {
+                        "category": "RC탱크"
+                    },
+                    {
+                        "category": "RC헬리콥터"
+                    },
+                    {
+                        "category": "어린이RC완구"
+                    },
+                    {
+                        "category": "엔진RC카"
+                    },
+                    {
+                        "category": "전동RC카"
+                    },
+                    {
+                        "category": "트라이얼/스케일RC카"
+                    }
+                ]
+            },
+            {
+                "category": "STEAM/학습완구",
+                "children": [
+                    {
+                        "category": "과학/자연학습"
+                    },
+                    {
+                        "category": "디지털학습완구"
+                    },
+                    {
+                        "category": "미술/점토"
+                    },
+                    {
+                        "category": "수학/도형완구"
+                    },
+                    {
+                        "category": "원목교구/가베"
+                    },
+                    {
+                        "category": "자석/학습보드"
+                    },
+                    {
+                        "category": "학습카드"
+                    }
+                ]
+            },
+            {
+                "category": "로봇/작동완구",
+                "children": [
+                    {
+                        "category": "로봇완구"
+                    },
+                    {
+                        "category": "베이블레이드/배틀팽이"
+                    },
+                    {
+                        "category": "작동완구"
+                    },
+                    {
+                        "category": "장난감총/칼"
+                    },
+                    {
+                        "category": "태엽장난감"
+                    }
+                ]
+            },
+            {
+                "category": "마술용품",
+                "children": [
+                    {
+                        "category": "일루전/스테이지마술"
+                    },
+                    {
+                        "category": "클로즈업마술"
+                    }
+                ]
+            },
+            {
+                "category": "물놀이/계절완구",
+                "children": [
+                    {
+                        "category": "눈썰매"
+                    },
+                    {
+                        "category": "물놀이완구"
+                    },
+                    {
+                        "category": "유아동 착용형 수영보조용품"
+                    },
+                    {
+                        "category": "유아동보트/매트"
+                    },
+                    {
+                        "category": "튜브"
+                    },
+                    {
+                        "category": "풀장/수영장"
+                    }
+                ]
+            },
+            {
+                "category": "보드게임",
+                "children": [
+                    {
+                        "category": "균형/순발력게임"
+                    },
+                    {
+                        "category": "기타보드게임"
+                    },
+                    {
+                        "category": "두뇌게임"
+                    },
+                    {
+                        "category": "바둑/체스/윷놀이"
+                    },
+                    {
+                        "category": "보드게임액세서리"
+                    },
+                    {
+                        "category": "복불복/룰렛게임"
+                    },
+                    {
+                        "category": "스포츠/액션게임"
+                    },
+                    {
+                        "category": "장난감게임기"
+                    },
+                    {
+                        "category": "추리/전략게임"
+                    },
+                    {
+                        "category": "캐릭터/마술/타로카드"
+                    },
+                    {
+                        "category": "화투/트럼프/마작"
+                    }
+                ]
+            },
+            {
+                "category": "블록놀이",
+                "children": [
+                    {
+                        "category": "기어블록"
+                    },
+                    {
+                        "category": "나노블록"
+                    },
+                    {
+                        "category": "나사조립블록"
+                    },
+                    {
+                        "category": "도미노"
+                    },
+                    {
+                        "category": "레고"
+                    },
+                    {
+                        "category": "마블런/레일블록"
+                    },
+                    {
+                        "category": "벽돌블록/빅블록"
+                    },
+                    {
+                        "category": "사각/십자블록"
+                    },
+                    {
+                        "category": "소프트블록"
+                    },
+                    {
+                        "category": "옥스포드"
+                    },
+                    {
+                        "category": "원목블록"
+                    },
+                    {
+                        "category": "자석블록"
+                    }
+                ]
+            },
+            {
+                "category": "수집품",
+                "children": [
+                    {
+                        "category": "기독교 용품"
+                    },
+                    {
+                        "category": "기타 종교용품"
+                    },
+                    {
+                        "category": "불교 용품"
+                    },
+                    {
+                        "category": "수집우표/씰"
+                    },
+                    {
+                        "category": "천주교 용품"
+                    }
+                ]
+            },
+            {
+                "category": "스포츠/야외완구",
+                "children": [
+                    {
+                        "category": "구기종목"
+                    },
+                    {
+                        "category": "낚시놀이"
+                    },
+                    {
+                        "category": "모래놀이"
+                    },
+                    {
+                        "category": "물총"
+                    },
+                    {
+                        "category": "버블건"
+                    },
+                    {
+                        "category": "부메랑"
+                    },
+                    {
+                        "category": "비누방울"
+                    },
+                    {
+                        "category": "사격 완구"
+                    },
+                    {
+                        "category": "양궁 완구"
+                    },
+                    {
+                        "category": "요요/베어링/홀더"
+                    },
+                    {
+                        "category": "원반던지기"
+                    },
+                    {
+                        "category": "전통놀이"
+                    },
+                    {
+                        "category": "캐치볼"
+                    },
+                    {
+                        "category": "트램펄린/트램폴린"
+                    },
+                    {
+                        "category": "펀치백"
+                    }
+                ]
+            },
+            {
+                "category": "승용완구",
+                "children": [
+                    {
+                        "category": "붕붕카"
+                    },
+                    {
+                        "category": "스카이콩콩"
+                    },
+                    {
+                        "category": "스프링카"
+                    },
+                    {
+                        "category": "유아용 세발자전거"
+                    },
+                    {
+                        "category": "전동오토바이"
+                    },
+                    {
+                        "category": "전동차"
+                    },
+                    {
+                        "category": "점핑볼/유아짐볼"
+                    },
+                    {
+                        "category": "지붕차"
+                    },
+                    {
+                        "category": "흔들말"
+                    }
+                ]
+            },
+            {
+                "category": "신생아/영아완구",
+                "children": [
+                    {
+                        "category": "거울놀이"
+                    },
+                    {
+                        "category": "걸음마보조기"
+                    },
+                    {
+                        "category": "기타멜로디완구"
+                    },
+                    {
+                        "category": "도형끼우기/모양맞추기"
+                    },
+                    {
+                        "category": "딸랑이"
+                    },
+                    {
+                        "category": "러닝테이블"
+                    },
+                    {
+                        "category": "링쌓기/컵쌓기"
+                    },
+                    {
+                        "category": "망치놀이"
+                    },
+                    {
+                        "category": "모빌"
+                    },
+                    {
+                        "category": "목욕놀이완구"
+                    },
+                    {
+                        "category": "베이비룸"
+                    },
+                    {
+                        "category": "보행기"
+                    },
+                    {
+                        "category": "쏘서"
+                    },
+                    {
+                        "category": "아기공"
+                    },
+                    {
+                        "category": "아기전화기"
+                    },
+                    {
+                        "category": "아기체육관/러닝홈"
+                    },
+                    {
+                        "category": "악기놀이"
+                    },
+                    {
+                        "category": "애벌레인형"
+                    },
+                    {
+                        "category": "애착인형/수면인형"
+                    },
+                    {
+                        "category": "에듀볼/러닝볼"
+                    },
+                    {
+                        "category": "오뚝이"
+                    },
+                    {
+                        "category": "유모차/카시트완구"
+                    },
+                    {
+                        "category": "점퍼루"
+                    },
+                    {
+                        "category": "촉감발달완구"
+                    },
+                    {
+                        "category": "풀백장난감"
+                    }
+                ]
+            },
+            {
+                "category": "실내대형완구",
+                "children": [
+                    {
+                        "category": "그네/그네봉"
+                    },
+                    {
+                        "category": "놀이집/놀이텐트"
+                    },
+                    {
+                        "category": "놀이터널"
+                    },
+                    {
+                        "category": "다기능놀이터"
+                    },
+                    {
+                        "category": "미끄럼틀"
+                    },
+                    {
+                        "category": "볼텐트"
+                    },
+                    {
+                        "category": "볼풀"
+                    },
+                    {
+                        "category": "볼풀공"
+                    },
+                    {
+                        "category": "시소"
+                    },
+                    {
+                        "category": "에어바운스"
+                    },
+                    {
+                        "category": "정글짐"
+                    }
+                ]
+            },
+            {
+                "category": "악기/음향기기",
+                "children": [
+                    {
+                        "category": "건반악기"
+                    },
+                    {
+                        "category": "관악기"
+                    },
+                    {
+                        "category": "교재용악기"
+                    },
+                    {
+                        "category": "국악기"
+                    },
+                    {
+                        "category": "기타(guitar)/우쿨렐레"
+                    },
+                    {
+                        "category": "악기소품/용품"
+                    },
+                    {
+                        "category": "음향기자재"
+                    },
+                    {
+                        "category": "타악기"
+                    },
+                    {
+                        "category": "현악기"
+                    }
+                ]
+            },
+            {
+                "category": "역할놀이",
+                "children": [
+                    {
+                        "category": "공구놀이"
+                    },
+                    {
+                        "category": "마트/계산대놀이"
+                    },
+                    {
+                        "category": "만들기놀이"
+                    },
+                    {
+                        "category": "병원놀이"
+                    },
+                    {
+                        "category": "소꿉놀이"
+                    },
+                    {
+                        "category": "주방놀이"
+                    },
+                    {
+                        "category": "직업놀이의상/소품"
+                    },
+                    {
+                        "category": "청소놀이"
+                    },
+                    {
+                        "category": "화장/꾸미기놀이"
+                    }
+                ]
+            },
+            {
+                "category": "인형",
+                "children": [
+                    {
+                        "category": "구체관절인형"
+                    },
+                    {
+                        "category": "구체관절인형 의상/소품"
+                    },
+                    {
+                        "category": "마론인형/옷"
+                    },
+                    {
+                        "category": "마리오네트"
+                    },
+                    {
+                        "category": "목각인형"
+                    },
+                    {
+                        "category": "봉제인형"
+                    },
+                    {
+                        "category": "손가락인형"
+                    },
+                    {
+                        "category": "아기인형"
+                    },
+                    {
+                        "category": "인형유모차/아기띠"
+                    },
+                    {
+                        "category": "인형집/소품"
+                    },
+                    {
+                        "category": "작동동물인형"
+                    },
+                    {
+                        "category": "전통인형"
+                    },
+                    {
+                        "category": "코디북"
+                    }
+                ]
+            },
+            {
+                "category": "퍼즐/큐브/피젯토이",
+                "children": [
+                    {
+                        "category": "큐브"
+                    },
+                    {
+                        "category": "퍼즐"
+                    },
+                    {
+                        "category": "피젯토이"
+                    }
+                ]
+            },
+            {
+                "category": "프라모델",
+                "children": [
+                    {
+                        "category": "4WD미니카"
+                    },
+                    {
+                        "category": "건담/건프라"
+                    },
+                    {
+                        "category": "도료/공구/기타"
+                    },
+                    {
+                        "category": "디오라마재료"
+                    },
+                    {
+                        "category": "모형칼/검"
+                    },
+                    {
+                        "category": "배/전함/잠수함"
+                    },
+                    {
+                        "category": "비행기/전투기/헬기"
+                    },
+                    {
+                        "category": "스호돌이마사지기"
+                    },
+                    {
+                        "category": "자동차/트럭"
+                    },
+                    {
+                        "category": "캐릭터/애니메이션 프라모델"
+                    },
+                    {
+                        "category": "탱크/지프/밀리터리"
+                    },
+                    {
+                        "category": "프라모델 건물/빌딩/성"
+                    },
+                    {
+                        "category": "프라모델 공룡/동물"
+                    },
+                    {
+                        "category": "프라모델 기차"
+                    },
+                    {
+                        "category": "프라모델 로봇/우주선"
+                    },
+                    {
+                        "category": "프라모델소품"
+                    }
+                ]
+            },
+            {
+                "category": "피규어/다이캐스트",
+                "children": [
+                    {
+                        "category": "가챠/캡슐토이"
+                    },
+                    {
+                        "category": "건물피규어"
+                    },
+                    {
+                        "category": "게임/영화피규어"
+                    },
+                    {
+                        "category": "교통수단피규어"
+                    },
+                    {
+                        "category": "다이캐스트/모형"
+                    },
+                    {
+                        "category": "동물/사물피규어"
+                    },
+                    {
+                        "category": "랜덤피규어"
+                    },
+                    {
+                        "category": "로봇피규어"
+                    },
+                    {
+                        "category": "미소녀피규어"
+                    },
+                    {
+                        "category": "밀리터리피규어"
+                    },
+                    {
+                        "category": "베어브릭/큐브릭"
+                    },
+                    {
+                        "category": "성인용 피규어(19금)"
+                    },
+                    {
+                        "category": "슐라이히"
+                    },
+                    {
+                        "category": "스포츠피규어"
+                    },
+                    {
+                        "category": "실바니안패밀리피규어"
+                    },
+                    {
+                        "category": "아트토이/피규어"
+                    },
+                    {
+                        "category": "악기피규어"
+                    },
+                    {
+                        "category": "애니메이션피규어"
+                    },
+                    {
+                        "category": "원피스피규어"
+                    },
+                    {
+                        "category": "인물피규어"
+                    },
+                    {
+                        "category": "페이퍼토이"
+                    },
+                    {
+                        "category": "플레이모빌"
+                    },
+                    {
+                        "category": "피규어/프라모델 케이스/장식장"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": "반려/애완용품",
+        "children": [
+            {
+                "category": "가축사료/용품",
+                "children": [
+                    {
+                        "category": "가축사료/영양제"
+                    },
+                    {
+                        "category": "가축용품"
+                    }
+                ]
+            },
+            {
+                "category": "강아지 사료/간식/영양제",
+                "children": [
+                    {
+                        "category": "강아지 간식"
+                    },
+                    {
+                        "category": "건식사료"
+                    },
+                    {
+                        "category": "건조/생식/동결건조 사료"
+                    },
+                    {
+                        "category": "기능성 사료"
+                    },
+                    {
+                        "category": "냉장/냉동사료"
+                    },
+                    {
+                        "category": "분유"
+                    },
+                    {
+                        "category": "소프트사료"
+                    },
+                    {
+                        "category": "습식사료/주식캔/주식파우치"
+                    },
+                    {
+                        "category": "영양제/건강보조제"
+                    },
+                    {
+                        "category": "화식사료"
+                    }
+                ]
+            },
+            {
+                "category": "강아지/고양이 겸용",
+                "children": [
+                    {
+                        "category": "목줄/자동줄"
+                    },
+                    {
+                        "category": "미용/목욕"
+                    },
+                    {
+                        "category": "반려동물전용가전"
+                    },
+                    {
+                        "category": "수납/보관"
+                    },
+                    {
+                        "category": "식기/물병/정수기"
+                    },
+                    {
+                        "category": "안전문/울타리/철장"
+                    },
+                    {
+                        "category": "영양제/건강보조제"
+                    },
+                    {
+                        "category": "위생/건강"
+                    },
+                    {
+                        "category": "캐리어/이동장/유모차"
+                    },
+                    {
+                        "category": "패션"
+                    },
+                    {
+                        "category": "하우스/침대/방석"
+                    }
+                ]
+            },
+            {
+                "category": "강아지용품",
+                "children": [
+                    {
+                        "category": "가슴줄/하네스"
+                    },
+                    {
+                        "category": "미용/목욕"
+                    },
+                    {
+                        "category": "배변"
+                    },
+                    {
+                        "category": "위생/건강"
+                    },
+                    {
+                        "category": "장난감"
+                    },
+                    {
+                        "category": "철장"
+                    },
+                    {
+                        "category": "훈련용품"
+                    }
+                ]
+            },
+            {
+                "category": "거북이/달팽이용품",
+                "children": [
+                    {
+                        "category": "거북이 사료"
+                    },
+                    {
+                        "category": "달팽이 먹이/영양제"
+                    },
+                    {
+                        "category": "달팽이세트"
+                    },
+                    {
+                        "category": "수조/사육장"
+                    },
+                    {
+                        "category": "여과기"
+                    },
+                    {
+                        "category": "온도계/히터기"
+                    },
+                    {
+                        "category": "은신처/조화/장식품/바닥재"
+                    }
+                ]
+            },
+            {
+                "category": "고슴도치용품",
+                "children": [
+                    {
+                        "category": "급식/급수기"
+                    },
+                    {
+                        "category": "목욕/미용용품"
+                    },
+                    {
+                        "category": "베딩/화장실/기타위생용품"
+                    },
+                    {
+                        "category": "사료/간식/밀웜/영양제"
+                    },
+                    {
+                        "category": "사육장/케이지"
+                    },
+                    {
+                        "category": "쳇바퀴/장난감"
+                    }
+                ]
+            },
+            {
+                "category": "고양이 사료/간식/영양제",
+                "children": [
+                    {
+                        "category": "건식사료"
+                    },
+                    {
+                        "category": "건조/생식/동결건조 사료"
+                    },
+                    {
+                        "category": "고양이 캔/간식"
+                    },
+                    {
+                        "category": "기능성 사료"
+                    },
+                    {
+                        "category": "분유"
+                    },
+                    {
+                        "category": "소프트사료"
+                    },
+                    {
+                        "category": "습식사료/주식캔/주식파우치"
+                    },
+                    {
+                        "category": "영양제/건강보조제"
+                    },
+                    {
+                        "category": "화식사료"
+                    }
+                ]
+            },
+            {
+                "category": "고양이용품",
+                "children": [
+                    {
+                        "category": "가슴줄/하네스"
+                    },
+                    {
+                        "category": "고양이 모래/ 화장실"
+                    },
+                    {
+                        "category": "샴푸/린스"
+                    },
+                    {
+                        "category": "위생/건강"
+                    },
+                    {
+                        "category": "장난감/낚싯대"
+                    },
+                    {
+                        "category": "철장"
+                    },
+                    {
+                        "category": "캣타워/스크래쳐"
+                    },
+                    {
+                        "category": "하우스/방석/해먹"
+                    }
+                ]
+            },
+            {
+                "category": "관상어용품",
+                "children": [
+                    {
+                        "category": "사료"
+                    },
+                    {
+                        "category": "수조/어항"
+                    },
+                    {
+                        "category": "수조장식/바닥재"
+                    },
+                    {
+                        "category": "수초/재배용품"
+                    },
+                    {
+                        "category": "약품/수질측정"
+                    },
+                    {
+                        "category": "조명"
+                    },
+                    {
+                        "category": "청소도구"
+                    },
+                    {
+                        "category": "펌프/모터/여과용품"
+                    },
+                    {
+                        "category": "히터/온도계"
+                    }
+                ]
+            },
+            {
+                "category": "장수풍뎅이/곤충용품",
+                "children": [
+                    {
+                        "category": "베딩/화장실/기타위생용품"
+                    },
+                    {
+                        "category": "사료/젤리"
+                    },
+                    {
+                        "category": "사육통/이동장"
+                    },
+                    {
+                        "category": "산란목/놀이목/먹이목"
+                    },
+                    {
+                        "category": "세트상품"
+                    },
+                    {
+                        "category": "전문가용잠자리채"
+                    }
+                ]
+            },
+            {
+                "category": "조류용품",
+                "children": [
+                    {
+                        "category": "간식/영양제"
+                    },
+                    {
+                        "category": "건강/위생용품"
+                    },
+                    {
+                        "category": "급수기/급식기"
+                    },
+                    {
+                        "category": "목욕/미용용품"
+                    },
+                    {
+                        "category": "부화용품"
+                    },
+                    {
+                        "category": "사료"
+                    },
+                    {
+                        "category": "새장/관리용품"
+                    },
+                    {
+                        "category": "이동장"
+                    },
+                    {
+                        "category": "장난감/훈련용품"
+                    }
+                ]
+            },
+            {
+                "category": "파충류용품",
+                "children": [
+                    {
+                        "category": "간식/영양제"
+                    },
+                    {
+                        "category": "사료"
+                    },
+                    {
+                        "category": "위생용품"
+                    },
+                    {
+                        "category": "하우스"
+                    },
+                    {
+                        "category": "하우스 용품"
+                    }
+                ]
+            },
+            {
+                "category": "페럿용품",
+                "children": [
+                    {
+                        "category": "페럿 사료/간식"
+                    },
+                    {
+                        "category": "페럿 용품"
+                    }
+                ]
+            },
+            {
+                "category": "햄스터/토끼/기니피그용품",
+                "children": [
+                    {
+                        "category": "간식/이갈이/영양제"
+                    },
+                    {
+                        "category": "급식/급수기"
+                    },
+                    {
+                        "category": "목줄/하네스/줄"
+                    },
+                    {
+                        "category": "베딩/화장실/위생"
+                    },
+                    {
+                        "category": "분유"
+                    },
+                    {
+                        "category": "사료"
+                    },
+                    {
+                        "category": "쳇바퀴/장난감"
+                    },
+                    {
+                        "category": "하우스/이동장"
+                    }
+                ]
+            }
+        ]
+    }
+]

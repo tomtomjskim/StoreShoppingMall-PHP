@@ -1,0 +1,1851 @@
+[
+    {
+        "__desc1__": "이 파일은 상품정보고시 초기 설정용 template DATA 입니다.(insert 프로그램은 개발 하셔야합니다.)",
+        "__desc2__": "2023.1.1 기준 고시"
+
+    },
+    {
+        "1": {
+            "noticeCategoryId": "1",
+            "noticeCategoryName": "의류",
+            "noticeContent": [
+                {
+                    "noticeContentName": "제품 소재",
+                    "noticeContentDefaultValue": "혼용률 필히 기재",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "색상",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "치수",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "제조자(수입자)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "제조국",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "세탁방법 및 취급시 주의사항",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "제조연월",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "품질보증기준",
+                    "noticeContentDefaultValue": "공정거래위원회 고시(소비자분쟁해결기준)에 의거하여 보상해 드립니다.",
+                    "noticeContentOrder": "8"
+                },
+                {
+                    "noticeContentName": "A/S 책임자와 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "9"
+                }
+            ]
+        },
+        "2": {
+            "noticeCategoryId": "2",
+            "noticeCategoryName": "구두/신발",
+            "noticeContent": [
+                {
+                    "noticeContentName": "제품의 주소재(운동화인 경우에는 겉감,안감을 구분하여 표시)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "색상",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "치수",
+                    "noticeContentDefaultValue": "발길이(mm) : / 굽높이(cm) : ",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "제조자(수입자)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "제조국",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "취급시 주의사항",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "품질보증기준",
+                    "noticeContentDefaultValue": "공정거래위원회 고시(소비자분쟁해결기준)에 의거하여 보상해 드립니다.",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "A/S 책임자와 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "8"
+                }
+            ]
+        },
+        "3": {
+            "noticeCategoryId": "3",
+            "noticeCategoryName": "가방",
+            "noticeContent": [
+                {
+                    "noticeContentName": "종류",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "소재",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "색상",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "크기",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "제조자(수입자)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "제조국",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "취급시 주의사항",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "품질보증기준",
+                    "noticeContentDefaultValue": "공정거래위원회 고시(소비자분쟁해결기준)에 의거하여 보상해 드립니다.",
+                    "noticeContentOrder": "8"
+                },
+                {
+                    "noticeContentName": "A/S 책임자와 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "9"
+                }
+            ]
+        },
+        "4": {
+            "noticeCategoryId": "4",
+            "noticeCategoryName": "패션잡화(모자/벨트/액세서리 등)",
+            "noticeContent": [
+                {
+                    "noticeContentName": "종류",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "소재",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "치수",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "제조자(수입자)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "제조국",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "취급시 주의사항",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "품질보증기준",
+                    "noticeContentDefaultValue": "공정거래위원회 고시(소비자분쟁해결기준)에 의거하여 보상해 드립니다.",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "A/S 책임자와 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "8"
+                }
+            ]
+        },
+        "5": {
+            "noticeCategoryId": "5",
+            "noticeCategoryName": "침구류/커튼",
+            "noticeContent": [
+                {
+                    "noticeContentName": "제품 소재",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "색상",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "치수",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "제품구성",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "제조자(수입자)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "제조국",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "세탁방법 및 취급시 주의사항",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "품질보증기준",
+                    "noticeContentDefaultValue": "공정거래위원회 고시(소비자분쟁해결기준)에 의거하여 보상해 드립니다.",
+                    "noticeContentOrder": "8"
+                },
+                {
+                    "noticeContentName": "A/S 책임자와 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "9"
+                }
+            ]
+        },
+        "6": {
+            "noticeCategoryId": "6",
+            "noticeCategoryName": "가구(침대 / 소파 / 싱크대 / DIY제품 등)",
+            "noticeContent": [
+                {
+                    "noticeContentName": "품명",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "KC 인증정보",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "색상",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "구성품",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "주요 소재",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "제조자(수입자)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "제조국",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "크기",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "8"
+                },
+                {
+                    "noticeContentName": "재공급(리퍼브) 가구의 경우 재공급 사유 및 하자 부위에 관한 정보",
+                    "noticeContentDefaultValue": "예시 : 견본주택 전시상품으로 식탁 상판에 미세한 흠집 있음 등",
+                    "noticeContentOrder": "9"
+                },
+                {
+                    "noticeContentName": "배송/설치비용",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "10"
+                },
+                {
+                    "noticeContentName": "품질보증기준",
+                    "noticeContentDefaultValue": "공정거래위원회 고시(소비자분쟁해결기준)에 의거하여 보상해 드립니다.",
+                    "noticeContentOrder": "11"
+                },
+                {
+                    "noticeContentName": "A/S 책임자와 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "12"
+                }
+            ]
+        },
+        "7": {
+            "noticeCategoryId": "7",
+            "noticeCategoryName": "영상가전(TV류)",
+            "noticeContent": [
+                {
+                    "noticeContentName": "품명 및 모델명",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "KC 인증정보",
+                    "noticeContentDefaultValue": "전기용품 및 생활용품 안전관리법에 따른 KC인증 대상",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "정격전압, 소비전력",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "에너지소비효율등급",
+                    "noticeContentDefaultValue": "에너지이용합리화법 상 의무대상상품에 한함",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "출시년월",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "제조자(수입자)",
+                    "noticeContentDefaultValue": "병행수입의 경우 병행수입 여부로 대체가능",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "제조국",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "크기, 형태",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "8"
+                },
+                {
+                    "noticeContentName": "화면사양 (화면크기, 해상도, 화면비율 등)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "9"
+                },
+                {
+                    "noticeContentName": "추가설치비용",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "10"
+                },
+                {
+                    "noticeContentName": "품질보증기준",
+                    "noticeContentDefaultValue": "제품 이상 시 공정거래위원회 고시 소비자분쟁해결기준에 의거 보상합니다.",
+                    "noticeContentOrder": "11"
+                },
+                {
+                    "noticeContentName": "A/S 책임자와 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "12"
+                }
+            ]
+        },
+        "8": {
+            "noticeCategoryId": "8",
+            "noticeCategoryName": "가정용 전기제품(냉장고/세탁기/식기세척기/전자레인지 등)",
+            "noticeContent": [
+                {
+                    "noticeContentName": "품명 및 모델명",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "KC 인증정보",
+                    "noticeContentDefaultValue": "전기용품 및 생활용품 안전관리법에 따른 KC인증 대상",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "정격전압, 소비전력",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "에너지소비효율등급",
+                    "noticeContentDefaultValue": "에너지이용합리화법 상 의무대상상품에 한함",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "출시년월",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "제조자(수입자)",
+                    "noticeContentDefaultValue": "병행수입의 경우 병행수입 여부로 대체가능",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "제조국",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "크기,용량,형태",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "8"
+                },
+                {
+                    "noticeContentName": "추가설치비용",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "9"
+                },
+                {
+                    "noticeContentName": "품질보증기준",
+                    "noticeContentDefaultValue": "제품 이상 시 공정거래위원회 고시 소비자분쟁해결기준에 의거 보상합니다.",
+                    "noticeContentOrder": "10"
+                },
+                {
+                    "noticeContentName": "A/S 책임자와 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "11"
+                }
+            ]
+        },
+        "9": {
+            "noticeCategoryId": "9",
+            "noticeCategoryName": "계절가전(에어컨/온풍기 등)",
+            "noticeContent": [
+                {
+                    "noticeContentName": "품명 및 모델명",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "KC 인증정보",
+                    "noticeContentDefaultValue": "전기용품 및 생활용품 안전관리법에 따른 KC인증 대상",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "정격전압, 소비전력",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "에너지소비효율등급",
+                    "noticeContentDefaultValue": "에너지이용합리화법 상 의무대상상품에 한함",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "출시년월",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "제조자(수입자)",
+                    "noticeContentDefaultValue": "병행수입의 경우 병행수입 여부로 대체가능",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "제조국",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "크기, 형태 (실외기 포함)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "8"
+                },
+                {
+                    "noticeContentName": "냉난방면적",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "9"
+                },
+                {
+                    "noticeContentName": "추가설치비용",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "10"
+                },
+                {
+                    "noticeContentName": "품질보증기준",
+                    "noticeContentDefaultValue": "제품 이상시 공정거래위원회 고시 소비자분쟁해결기준에 의거 보상합니다.",
+                    "noticeContentOrder": "11"
+                },
+                {
+                    "noticeContentName": "A/S 책임자와 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "12"
+                }
+            ]
+        },
+        "10": {
+            "noticeCategoryId": "10",
+            "noticeCategoryName": "사무용기기(컴퓨터/노트북/프린터 등)",
+            "noticeContent": [
+                {
+                    "noticeContentName": "품명 및 모델명",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "KC 인증정보",
+                    "noticeContentDefaultValue": "전파법 인증대상품에 한함, MIC 인증 필 혼용 가능",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "정격전압, 소비전력",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "에너지소비효율등급",
+                    "noticeContentDefaultValue": "에너지이용합리화법 상 의무대상상품에 한함",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "출시년월",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "제조자(수입자)",
+                    "noticeContentDefaultValue": "병행수입의 경우 병행수입 여부로 대체가능",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "제조국",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "크기",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "8"
+                },
+                {
+                    "noticeContentName": "무게",
+                    "noticeContentDefaultValue": "무게는 노트북에 한함",
+                    "noticeContentOrder": "9"
+                },
+                {
+                    "noticeContentName": "주요 사양",
+                    "noticeContentDefaultValue": "컴퓨터와 노트북은 성능, 용량 등 / 프린터는 인쇄 속도 등",
+                    "noticeContentOrder": "10"
+                },
+                {
+                    "noticeContentName": "품질보증기준",
+                    "noticeContentDefaultValue": "제품 이상시 공정거래위원회 고시 소비자분쟁해결기준에 의거 보상합니다.",
+                    "noticeContentOrder": "11"
+                },
+                {
+                    "noticeContentName": "A/S 책임자와 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "12"
+                }
+            ]
+        },
+        "11": {
+            "noticeCategoryId": "11",
+            "noticeCategoryName": "광학기기(디지털카메라/캠코더 등)",
+            "noticeContent": [
+                {
+                    "noticeContentName": "품명 및 모델명",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "KC 인증정보",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "출시년월",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "제조자(수입자)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "제조국",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "크기",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "무게",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "주요 사양",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "8"
+                },
+                {
+                    "noticeContentName": "품질보증기준",
+                    "noticeContentDefaultValue": "공정거래위원회 고시(소비자분쟁해결기준)에 의거하여 보상해 드립니다.",
+                    "noticeContentOrder": "9"
+                },
+                {
+                    "noticeContentName": "A/S 책임자와 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "10"
+                }
+            ]
+        },
+        "12": {
+            "noticeCategoryId": "12",
+            "noticeCategoryName": "소형전자(MP3/전자사전 등)",
+            "noticeContent": [
+                {
+                    "noticeContentName": "품명 및 모델명",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "KC 인증정보",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "정격전압, 소비전력",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "출시년월",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "제조자(수입자)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "제조국",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "크기",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "무게",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "8"
+                },
+                {
+                    "noticeContentName": "주요 사양",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "9"
+                },
+                {
+                    "noticeContentName": "품질보증기준",
+                    "noticeContentDefaultValue": "공정거래위원회 고시(소비자분쟁해결기준)에 의거하여 보상해 드립니다.",
+                    "noticeContentOrder": "10"
+                },
+                {
+                    "noticeContentName": "A/S 책임자와 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "11"
+                }
+            ]
+        },
+        "13": {
+            "noticeCategoryId": "13",
+            "noticeCategoryName": "휴대형 통신기기 (휴대폰 / 태블릿 등)",
+            "noticeContent": [
+                {
+                    "noticeContentName": "품명 및 모델명",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "KC 인증정보",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "출시년월",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "제조자(수입자)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "제조국",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "크기",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "무게",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "이동통신 가입조건",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "8"
+                },
+                {
+                    "noticeContentName": "이동통신사",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "9"
+                },
+                {
+                    "noticeContentName": "가입절차",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "10"
+                },
+                {
+                    "noticeContentName": "소비자의 추가 부담사항",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "11"
+                },
+                {
+                    "noticeContentName": "주요 사양",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "12"
+                },
+                {
+                    "noticeContentName": "품질보증기준",
+                    "noticeContentDefaultValue": "공정거래위원회 고시(소비자분쟁해결기준)에 의거하여 보상해 드립니다.",
+                    "noticeContentOrder": "13"
+                },
+                {
+                    "noticeContentName": "A/S 책임자와 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "14"
+                }
+            ]
+        },
+        "14": {
+            "noticeCategoryId": "14",
+            "noticeCategoryName": "내비게이션",
+            "noticeContent": [
+                {
+                    "noticeContentName": "품명 및 모델명",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "KC 인증정보",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "정격전압, 소비전력",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "출시년월",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "제조자(수입자)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "제조국",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "크기",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "무게",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "8"
+                },
+                {
+                    "noticeContentName": "주요 사양",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "9"
+                },
+                {
+                    "noticeContentName": "맵 업데이트 비용 및 무상기간",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "10"
+                },
+                {
+                    "noticeContentName": "품질보증기준",
+                    "noticeContentDefaultValue": "공정거래위원회 고시(소비자분쟁해결기준)에 의거하여 보상해 드립니다.",
+                    "noticeContentOrder": "11"
+                },
+                {
+                    "noticeContentName": "A/S 책임자와 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "12"
+                }
+            ]
+        },
+        "15": {
+            "noticeCategoryId": "15",
+            "noticeCategoryName": "자동차용품 (자동차부품/기타 자동차용품 등)",
+            "noticeContent": [
+                {
+                    "noticeContentName": "품명 및 모델명",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "동일모델 출시년월",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "KC 인증정보(자동차관리법에 따른 자기인증 대상 자동차부품에 한함)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "제조자(수입자)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "제조국",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "크기",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "적용차종",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "제품사용으로 인한 위험 및 유의사항(연료절감장치에 한함)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "8"
+                },
+                {
+                    "noticeContentName": "품질보증기준",
+                    "noticeContentDefaultValue": "제품 이상 시 공정거래위원회 고시 소비자분쟁해결기준에 의거 보상합니다.",
+                    "noticeContentOrder": "9"
+                },
+                {
+                    "noticeContentName": "검사합격증 번호 (대기환경보전법에 따른 첨가제·촉매제에 한함)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "10"
+                },
+                {
+                    "noticeContentName": "A/S 책임자와 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "11"
+                }
+            ]
+        },
+        "16": {
+            "noticeCategoryId": "16",
+            "noticeCategoryName": "의료기기",
+            "noticeContent": [
+                {
+                    "noticeContentName": "품명 및 모델명",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "허가∙인증∙신고번호 (의료기기법에 따른 허가∙인증∙신고 대상 의료기기에 한함)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "정격전압, 소비전력",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "출시년월",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "제조자(수입자)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "제조국",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "제품의 사용목적 및 사용방법",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "취급시 주의사항",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "8"
+                },
+                {
+                    "noticeContentName": "품질보증기준",
+                    "noticeContentDefaultValue": "공정거래위원회 고시(소비자분쟁해결기준)에 의거하여 보상해 드립니다.",
+                    "noticeContentOrder": "9"
+                },
+                {
+                    "noticeContentName": "A/S 책임자와 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "10"
+                }
+            ]
+        },
+        "17": {
+            "noticeCategoryId": "17",
+            "noticeCategoryName": "주방용품",
+            "noticeContent": [
+                {
+                    "noticeContentName": "품명 및 모델명",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "재질",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "구성품",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "크기",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "출시년월",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "제조자(수입자)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "제조국",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "수입신고 문구 여부",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "8"
+                },
+                {
+                    "noticeContentName": "품질보증기준",
+                    "noticeContentDefaultValue": "공정거래위원회 고시(소비자분쟁해결기준)에 의거하여 보상해 드립니다.",
+                    "noticeContentOrder": "9"
+                },
+                {
+                    "noticeContentName": "A/S 책임자와 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "10"
+                }
+            ]
+        },
+        "18": {
+            "noticeCategoryId": "18",
+            "noticeCategoryName": "화장품",
+            "noticeContent": [
+                {
+                    "noticeContentName": "용량(중량)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "제품 주요 사양",
+                    "noticeContentDefaultValue": "피부타입, 색상(호,번) 등",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "사용기한 또는 개봉 후 사용기간",
+                    "noticeContentDefaultValue": "개봉 후 사용기간의 경우 제조연월일 병행표기",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "사용방법",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "화장품제조업자, 화장품책임판매업자 및 맞춤형화장품판매업자",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "제조국",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "화장품법에 따라 기재, 표시하여야 하는 모든 성분",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "화장품법에 따른 기능성 화장품 심사(또는 보고)를 필함 해당 유무",
+                    "noticeContentDefaultValue": "미백, 주름개선, 자외선차단 등",
+                    "noticeContentOrder": "8"
+                },
+                {
+                    "noticeContentName": "사용할 때 주의사항",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "9"
+                },
+                {
+                    "noticeContentName": "품질보증기준",
+                    "noticeContentDefaultValue": "제품 이상 시 공정거래위원회 고시 소비자분쟁해결기준에 의거 보상합니다.",
+                    "noticeContentOrder": "10"
+                },
+                {
+                    "noticeContentName": "소비자상담관련 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "11"
+                }
+            ]
+        },
+        "19": {
+            "noticeCategoryId": "19",
+            "noticeCategoryName": "귀금속/보석/시계류",
+            "noticeContent": [
+                {
+                    "noticeContentName": "소재/순도/밴드재질",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "중량",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "제조자(수입자)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "제조국",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "치수",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "착용 시 주의사항",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "주요사양",
+                    "noticeContentDefaultValue": "귀금속, 보석류 : 시계 : ",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "보증서 제공여부",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "8"
+                },
+                {
+                    "noticeContentName": "품질보증기준",
+                    "noticeContentDefaultValue": "공정거래위원회 고시(소비자분쟁해결기준)에 의거하여 보상해 드립니다.",
+                    "noticeContentOrder": "9"
+                },
+                {
+                    "noticeContentName": "A/S 책임자와 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "10"
+                }
+            ]
+        },
+        "20": {
+            "noticeCategoryId": "20",
+            "noticeCategoryName": "농수축산물",
+            "noticeContent": [
+                {
+                    "noticeContentName": "품목 또는 명칭",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "포장단위별 내용물의 용량(중량),수량,크기",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "생산자(수입자)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "원산지",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "제조연월일, 소비기한 또는 품질유지기한",
+                    "noticeContentDefaultValue": "생산년도:n제조연월일:n유통기한:n",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "세부 품목군별 표시사항",
+                    "noticeContentDefaultValue": "<농산물>n1) 유전자 변형농산물 표시 -n2) 지리적표시 -nn<수산물> n1) 유전자 변형수산물 표시 -n2) 지리적표시 -nn<축산물>n1) 등급 표시 -n2) 이력관리 표시 유무 -",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "수입식품 문구 여부",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "상품구성",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "8"
+                },
+                {
+                    "noticeContentName": "보관방법,취급방법",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "9"
+                },
+                {
+                    "noticeContentName": "소비자안전을 위한 주의사항",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "10"
+                },
+                {
+                    "noticeContentName": "소비자상담관련 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "11"
+                }
+            ]
+        },
+        "21": {
+            "noticeCategoryId": "21",
+            "noticeCategoryName": "가공식품",
+            "noticeContent": [
+                {
+                    "noticeContentName": "제품명",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "식품의 유형",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "생산자 및 소재지",
+                    "noticeContentDefaultValue": "수입품의 경우 생산자,수입자 및 제조국",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "제조연월일, 소비기한 또는 품질유지기한",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "포장단위별 내용물의 용량(중량), 수량",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "원재료명 및 함량",
+                    "noticeContentDefaultValue": "농수산물의 원산지 표시에 관한 법률에 따른 원산지 표시 포함",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "영양성분",
+                    "noticeContentDefaultValue": "식품위생법에 따른 영양성분 표시대상 식품에 한함",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "유전자변형식품에 해당하는 경우의 표시",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "8"
+                },
+                {
+                    "noticeContentName": "소비자안전을 위한 주의사항",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "9"
+                },
+                {
+                    "noticeContentName": "수입식품 문구",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "10"
+                },
+                {
+                    "noticeContentName": "소비자상담관련 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "11"
+                }
+            ]
+        },
+        "22": {
+            "noticeCategoryId": "22",
+            "noticeCategoryName": "건강기능식품",
+            "noticeContent": [
+                {
+                    "noticeContentName": "제품명",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "제조업소의 명칭과 소재지",
+                    "noticeContentDefaultValue": "수입품의 경우, 수입업소, 제조업소 및 수출국",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "소비기한 및 보관방법",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "포장단위별 내용물의 용량(중량), 수량",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "원료명 및 함량",
+                    "noticeContentDefaultValue": "농수산물의 원산지 표시에 관한 법률에 따른 원산지 표시 포함",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "영양정보",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "기능정보",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "섭취량, 섭취방법, 섭취 시 주의사항 및 부작용 발생 가능성",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "8"
+                },
+                {
+                    "noticeContentName": "의약품 여부",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "9"
+                },
+                {
+                    "noticeContentName": "유전자변형건강식품에 해당하는 경우의 표시",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "10"
+                },
+                {
+                    "noticeContentName": "수입 건강기능식품 문구",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "11"
+                },
+                {
+                    "noticeContentName": "소비자안전을 위한 주의사항",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "12"
+                },
+                {
+                    "noticeContentName": "소비자상담관련 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "13"
+                }
+            ]
+        },
+        "23": {
+            "noticeCategoryId": "23",
+            "noticeCategoryName": "어린이제품",
+            "noticeContent": [
+                {
+                    "noticeContentName": "품명 및 모델명",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "KC 인증정보",
+                    "noticeContentDefaultValue": "어린이제품 안전 특별법에 따른 안전인증∙안전확인∙공급자적합성확인대상어린이제품",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "크기",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "중량",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "색상",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "재질",
+                    "noticeContentDefaultValue": "섬유의 경우 혼용률",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "사용연령 또는 권장사용연령",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "크기∙체중의 한계",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "8"
+                },
+                {
+                    "noticeContentName": "동일모델의 출시년월",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "9"
+                },
+                {
+                    "noticeContentName": "제조자(수입자)",
+                    "noticeContentDefaultValue": "병행수입의 경우 병행수입 여부로 대체가능",
+                    "noticeContentOrder": "10"
+                },
+                {
+                    "noticeContentName": "제조국",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "11"
+                },
+                {
+                    "noticeContentName": "취급방법 및 취급시 주의사항, 안전표시",
+                    "noticeContentDefaultValue": "주의,경고등",
+                    "noticeContentOrder": "12"
+                },
+                {
+                    "noticeContentName": "품질보증기준",
+                    "noticeContentDefaultValue": "제품 이상 시 공정거래위원회 고시 소비자분쟁해결기준에 의거 보상합니다.",
+                    "noticeContentOrder": "13"
+                },
+                {
+                    "noticeContentName": "A/S 책임자와 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "14"
+                }
+            ]
+        },
+        "24": {
+            "noticeCategoryId": "24",
+            "noticeCategoryName": "악기",
+            "noticeContent": [
+                {
+                    "noticeContentName": "품명 및 모델명",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "크기",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "색상",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "재질",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "제품 구성",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "출시년월",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "제조자(수입자)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "제조국",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "8"
+                },
+                {
+                    "noticeContentName": "상품별 세부 사양",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "9"
+                },
+                {
+                    "noticeContentName": "품질보증기준",
+                    "noticeContentDefaultValue": "공정거래위원회 고시(소비자분쟁해결기준)에 의거하여 보상해 드립니다.",
+                    "noticeContentOrder": "10"
+                },
+                {
+                    "noticeContentName": "A/S 책임자와 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "11"
+                }
+            ]
+        },
+        "25": {
+            "noticeCategoryId": "25",
+            "noticeCategoryName": "스포츠용품",
+            "noticeContent": [
+                {
+                    "noticeContentName": "품명 및 모델명",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "KC 인증정보",
+                    "noticeContentDefaultValue": "전기용품 및 생활용품 안전관리법에 따른 안전인증,안전확인,공급자적합성확인대상 제품에 한함",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "크기, 중량",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "색상",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "재질",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "제품 구성",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "출시년월",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "제조자(수입자)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "8"
+                },
+                {
+                    "noticeContentName": "제조국",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "9"
+                },
+                {
+                    "noticeContentName": "상품별 세부 사양",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "10"
+                },
+                {
+                    "noticeContentName": "품질보증기준",
+                    "noticeContentDefaultValue": "공정거래위원회 고시(소비자분쟁해결기준)에 의거하여 보상해 드립니다.",
+                    "noticeContentOrder": "11"
+                },
+                {
+                    "noticeContentName": "A/S 책임자와 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "12"
+                }
+            ]
+        },
+        "26": {
+            "noticeCategoryId": "26",
+            "noticeCategoryName": "서적",
+            "noticeContent": [
+                {
+                    "noticeContentName": "도서명",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "저자, 출판사",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "크기(파일의 용량)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "쪽수",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "제품 구성",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "발행일",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "목차 또는 책소개(아동용 학습 교재의 경우 사용연령을 포함)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "7"
+                }
+            ]
+        },
+        "33": {
+            "noticeCategoryId": "33",
+            "noticeCategoryName": "디지털 콘텐츠(음원, 게임, 인터넷강의 등)",
+            "noticeContent": [
+                {
+                    "noticeContentName": "제작자 또는 공급자",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "이용조건, 이용기간",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "상품 제공 방식",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "최소 시스템 사양, 필수 소프트웨어",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "청약철회 또는 계약의 해제·해지에 따른 효과",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "소비자상담 관련 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "6"
+                }
+            ]
+        },
+        "37": {
+            "noticeCategoryId": "37",
+            "noticeCategoryName": "생활화학제품",
+            "noticeContent": [
+                {
+                    "noticeContentName": "품목 및 제품명",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "용도(표백제의 경우 계열을 함께표시) 및 제형",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "제조연월 및 유통기한 (유통기한의 경우 해당 없는 제품은 생략 가능)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": " 중량∙용량∙매수∙크기",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "효과,효능 (승인대상 제품에 한함)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "수입자(수입제품에 한함), 제조국 및 제조사",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "어린이보호포장 대상제품 유무",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "제품에 사용된 화학물질 명칭(안전확인대상생활화학제품 지정 및 안전∙표시기준 [별표 6]에 따른 표시대상 화학물질로서 주요물질, 보존제, 알레르기반응가능물질 등의 명칭)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "8"
+                },
+                {
+                    "noticeContentName": "사용상 주의사항",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "9"
+                },
+                {
+                    "noticeContentName": "안전기준적합확인신고번호 또는 안전확인대상생활화학제품승인번호 (화학제품안전법 시행일(경과조치 기간 포함) 이전에 생산∙수입된 위해우려제품의 경우 종전 법에 따른 자가검사번호를 표시)",
+                    "noticeContentDefaultValue": "n",
+                    "noticeContentOrder": "10"
+                },
+                {
+                    "noticeContentName": "소비자상담 관련 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "11"
+                }
+            ]
+        },
+        "38": {
+            "noticeCategoryId": "38",
+            "noticeCategoryName": "살생물제품",
+            "noticeContent": [
+                {
+                    "noticeContentName": "제품명 및 살생물제품유형",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "유통기한",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "중량 또는 용량 및 표준사용량",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "효과, 효능",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "사용대상자 및 사용범위",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "수입자(수입제품에 한함), 제조국 및 제조사",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "어린이보호포장 대상제품 유무",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "살생물물질, 나노물질, 기타 화학물질(유해화학물질 또는 중점관리물질)의 명칭",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "8"
+                },
+                {
+                    "noticeContentName": "제품 유해성, 위해성 표시",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "9"
+                },
+                {
+                    "noticeContentName": "사용방법 및 사용상 주의사항",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "10"
+                },
+                {
+                    "noticeContentName": "승인번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "11"
+                },
+                {
+                    "noticeContentName": "소비자상담 관련 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "12"
+                }
+            ]
+        },
+        "40": {
+            "noticeCategoryId": "40",
+            "noticeCategoryName": "기타 재화",
+            "noticeContent": [
+                {
+                    "noticeContentName": "품명 및 모델명",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "인증/허가 사항",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "제조국(원산지)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "제조자(수입자)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "소비자상담 관련 전화번호",
+                    "noticeContentDefaultValue": "쿠팡고객센터 1577-7011",
+                    "noticeContentOrder": "5"
+                }
+            ]
+        },
+        "41": {
+            "noticeCategoryId": "41",
+            "noticeCategoryName": "기타 가공식품",
+            "noticeContent": [
+                {
+                    "noticeContentName": "식품의 유형",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "생산자/소재지(수입품의 경우 생산자, 수입자 및 제조국)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "제조연월일, 유통기한 또는 품질유지기한",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "포장단위별 용량(중량), 수량",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "원재료명 및 함량",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "영양성분",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "6"
+                },
+                {
+                    "noticeContentName": "유전자재조합식품 여부",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "7"
+                },
+                {
+                    "noticeContentName": "표시광고사전심의필 유무 및 부작용 발생 가능성",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "8"
+                },
+                {
+                    "noticeContentName": "수입식품 문구",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "9"
+                },
+                {
+                    "noticeContentName": "소비자상담관련 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "10"
+                }
+            ]
+        },
+        "42": {
+            "noticeCategoryId": "42",
+            "noticeCategoryName": "기타 재화(유통기간)",
+            "noticeContent": [
+                {
+                    "noticeContentName": "품명 및 모델명",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "1"
+                },
+                {
+                    "noticeContentName": "인증사항",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "2"
+                },
+                {
+                    "noticeContentName": "제조연월일, 유통기한 또는 품질유지기한",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "3"
+                },
+                {
+                    "noticeContentName": "제조국(원산지)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "4"
+                },
+                {
+                    "noticeContentName": "제조자(수입자)",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "5"
+                },
+                {
+                    "noticeContentName": "소비자상담 관련 전화번호",
+                    "noticeContentDefaultValue": "",
+                    "noticeContentOrder": "6"
+                }
+            ]
+        }
+    }
+]
